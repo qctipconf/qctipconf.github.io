@@ -37,14 +37,6 @@ Email: _To be announced_
 
 For registration-related questions, please email us at the general inquiries address above.
 
-## Follow Us
-
-Stay updated with the latest conference news:
-
-- **Twitter:** _To be announced_
-- **LinkedIn:** _To be announced_
-- **Mailing List:** _To be announced_
-
 ## Location
 
 University of Oxford  
