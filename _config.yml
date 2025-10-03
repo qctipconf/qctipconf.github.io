@@ -25,6 +25,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+# Disable github-metadata in local builds (it requires API access)
+github: [metadata]
+
 # Build settings
 markdown: kramdown
 kramdown:
