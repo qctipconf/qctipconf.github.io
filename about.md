@@ -11,34 +11,7 @@ title: About
 
 ## Conference Overview
 
-The **Quantum Computing Theory in Practice (QCTiP)** conference series aims to bring together leading researchers, practitioners, and students from academia and industry to discuss recent advances in quantum computing. The 2026 edition will be hosted by the prestigious University of Oxford.
-
-## Objectives
-
-- Foster collaboration between theoretical and applied quantum computing research
-- Showcase cutting-edge developments in quantum algorithms, hardware, and software
-- Provide networking opportunities for researchers and industry professionals
-- Encourage interdisciplinary approaches to quantum computing challenges
-- Support early-career researchers through dedicated sessions and mentoring
-
-## Conference Format
-
-QCTiP 2026 will feature:
-
-- **Invited Keynote Talks** by leading experts in quantum computing
-- **Contributed Paper Presentations** showcasing original research
-- **Poster Sessions** for interactive discussions
-- **Panel Discussions** on current challenges and future directions
-- **Tutorials and Workshops** on practical quantum computing tools and techniques
-- **Industry Exhibition** featuring quantum computing companies and startups
-
-## Target Audience
-
-- Academic researchers in quantum computing and related fields
-- Graduate students and postdocs
-- Industry professionals working on quantum technologies
-- Software developers interested in quantum programming
-- Policy makers and funding agencies
+Quantum hardware is living an exceptionally exciting phase and ongoing theoretical advancements are bringing practical applications of this hardware closer to realization. QCTiP aims to bring together academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
 
 ## Organizing Committee
 
@@ -51,6 +24,14 @@ _To be announced_
 ## Sponsors
 
 _To be announced_
+
+## Code of Conduct
+
+QCTiP2026 is committed to ensuring a harassment-free environment for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We maintain a zero-tolerance policy towards harassment in any form. Any participant found violating this code of conduct may face sanctions or expulsion from the conference, at the discretion of the organisers.
+
+<!--
+TODO: provide details for reporting CoC violations and getting local support. (see QCTiP 2025 website for example)
+-->
 
 ---
 
