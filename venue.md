@@ -5,9 +5,6 @@ title: Venue
 
 # Conference Venue
 
-[Home](/) | [About](/about) | [Program](/program) | [Contact](/contact)
-
----
 
 ## University of Oxford
 
@@ -25,11 +22,6 @@ The specific venue within the University of Oxford will be announced soon.
 
 Information about recommended hotels and accommodation options will be provided closer to the conference date.
 
-Suggested areas to stay:
-- Oxford City Centre
-- Jericho
-- Summertown
-
 ## Travel Information
 
 ### Getting to Oxford
@@ -39,7 +31,7 @@ Suggested areas to stay:
 - Regular services from Birmingham, Manchester, and other major UK cities
 
 **By Air:**
-- London Heathrow Airport (approximately 1 hour by bus or car)
+- London Heathrow Airport (approximately 1 hour by coach)
 - London Gatwick Airport (approximately 2 hours)
 - Birmingham Airport (approximately 1.5 hours)
 
@@ -66,6 +58,3 @@ Suggested areas to stay:
 
 International attendees should check UK visa requirements well in advance. More information will be provided on the registration page.
 
----
-
-[Back to Home](/)

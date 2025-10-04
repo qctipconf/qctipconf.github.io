@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#002147">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- Critical CSS to prevent FOUC -->
+    <style>
+      /* Oxford Blue Color Scheme */
+      :root {
+        --oxford-blue: #002147;
+        --oxford-blue-light: #003366;
+        --oxford-blue-lighter: #004488;
+        --oxford-blue-dark: #001122;
+        --oxford-blue-accent: #0066cc;
+      }
+      
+      /* Critical header styles */
+      .page-header {
+        background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+        background-image: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+        color: white;
+        padding: 2rem;
+      }
+      
+      /* Hide content initially to prevent FOUC */
+      body {
+        visibility: hidden;
+      }
+      
+      /* Show content once CSS is loaded */
+      .css-loaded body {
+        visibility: visible;
+      }
+      
+      /* Basic navigation styling */
+      nav {
+        text-align: center;
+      }
+      
+      nav a {
+        background: var(--oxford-blue) !important;
+        color: white !important;
+        padding: 0.75rem 1.5rem !important;
+        border-radius: 6px !important;
+        text-decoration: none !important;
+        margin: 0.25rem !important;
+        display: inline-block !important;
+        font-weight: 500 !important;
+        border: 2px solid var(--oxford-blue) !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" onload="document.documentElement.classList.add('css-loaded')">
+    
+    <!-- Fallback for browsers that don't support onload -->
+    <noscript>
+      <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+      <style>body { visibility: visible; }</style>
+    </noscript>
+    
+    <!-- Font loading optimization -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap"></noscript>
+    
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <nav class="nav">
+        <a href="/">About</a>
+        <a href="/venue">Venue</a>
+        <a href="/program">Program</a>
+        <a href="/contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits">
+          &copy; {{ site.conference.year }} {{ site.conference.name }}. 
+          Powered by <a href="https://pages.github.com">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.
+        </span>
+      </footer>
+    </main>
+    
+    <!-- JavaScript to ensure CSS loaded class is added -->
+    <script>
+      // Add CSS loaded class after a short delay as fallback
+      setTimeout(function() {
+        document.documentElement.classList.add('css-loaded');
+      }, 100);
+    </script>
+  </body>
+</html>

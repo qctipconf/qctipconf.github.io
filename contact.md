@@ -5,10 +5,6 @@ title: Contact
 
 # Contact Information
 
-[Home](/) | [About](/about) | [Program](/program) | [Venue](/venue)
-
----
-
 ## Get in Touch
 
 For inquiries about QCTiP 2026, please contact us using the information below.
@@ -44,22 +40,5 @@ Oxford, United Kingdom
 
 _Specific venue address to be announced_
 
----
 
-## Frequently Asked Questions
 
-**When will registration open?**  
-Registration details will be announced soon. Please check back regularly for updates.
-
-**Will proceedings be published?**  
-Information about conference proceedings will be available in the Call for Papers.
-
-**Are student travel grants available?**  
-We are working on securing funding for student travel grants. Information will be posted when available.
-
-**What is the conference language?**  
-The conference will be conducted in English.
-
----
-
-[Back to Home](/)

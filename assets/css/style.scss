@@ -1,0 +1,244 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Oxford Blue Color Scheme */
+:root {
+  --oxford-blue: #002147;
+  --oxford-blue-light: #003366;
+  --oxford-blue-lighter: #004488;
+  --oxford-blue-dark: #001122;
+  --oxford-blue-accent: #0066cc;
+}
+
+/* Header gradient - replace green with Oxford blue */
+.page-header {
+  background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+  background-image: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+  color: white;
+  padding: 2rem;
+}
+
+/* Conference info styling */
+.conference-info {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+/* Button styles */
+.btn {
+  background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-light)) !important;
+  border: 1px solid var(--oxford-blue-lighter) !important;
+  color: white !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: linear-gradient(120deg, var(--oxford-blue-light), var(--oxford-blue-lighter)) !important;
+  border-color: var(--oxford-blue-lighter) !important;
+  box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3);
+}
+
+/* Navigation styling */
+nav {
+  text-align: center;
+}
+
+nav a {
+  background: var(--oxford-blue) !important;
+  color: white !important;
+  padding: 0.75rem 1.5rem !important;
+  border-radius: 6px !important;
+  text-decoration: none !important;
+  margin: 0.25rem !important;
+  display: inline-block !important;
+  font-weight: 500 !important;
+//   transition: all 0.3s ease !important;
+  border: 2px solid var(--oxford-blue) !important;
+}
+
+nav a:hover {
+  background: var(--oxford-blue-light) !important;
+  box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3) !important;
+  border-color: var(--oxford-blue-lighter) !important;
+  transition: all 0.3s ease !important;
+}
+
+nav a:focus {
+  outline: 3px solid var(--oxford-blue-accent) !important;
+  outline-offset: 2px !important;
+}
+
+/* Link colors */
+.main-content a:not(nav a) {
+  color: var(--oxford-blue) !important;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.main-content a:not(nav a):hover {
+  color: var(--oxford-blue-light) !important;
+  text-decoration: none;
+}
+
+/* Code block styling */
+.main-content pre {
+  border: 1px solid var(--oxford-blue-lighter) !important;
+  background-color: rgba(0, 33, 71, 0.03) !important;
+}
+
+.main-content code {
+  background-color: rgba(0, 33, 71, 0.08) !important;
+  border: 1px solid rgba(0, 33, 71, 0.15) !important;
+  color: var(--oxford-blue-dark) !important;
+}
+
+/* Table styling */
+.main-content table {
+  border: 1px solid var(--oxford-blue-lighter);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.main-content table th {
+  background-color: var(--oxford-blue) !important;
+  color: white !important;
+  font-weight: 600;
+  padding: 1rem;
+}
+
+.main-content table td {
+  border-bottom: 1px solid rgba(0, 33, 71, 0.1) !important;
+  padding: 0.75rem 1rem;
+}
+
+.main-content table tr:nth-child(even) {
+  background-color: rgba(0, 33, 71, 0.02);
+}
+
+.main-content table tr:hover {
+  background-color: rgba(0, 33, 71, 0.05);
+}
+
+/* Blockquote styling */
+.main-content blockquote {
+  border-left: 4px solid var(--oxford-blue) !important;
+  background-color: rgba(0, 33, 71, 0.05) !important;
+  padding: 1rem 1.5rem !important;
+  margin: 1.5rem 0 !important;
+  border-radius: 0 6px 6px 0;
+}
+
+/* Header text styling for better contrast */
+.page-header h1,
+.page-header h2 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  margin-bottom: 0.5rem;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.page-header h2 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  opacity: 0.9;
+}
+
+/* Main content headings */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: var(--oxford-blue);
+  border-bottom: 2px solid rgba(0, 33, 71, 0.1);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.main-content h1 {
+  font-size: 2rem;
+  border-bottom-width: 3px;
+}
+
+.main-content h2 {
+  font-size: 1.5rem;
+}
+
+/* Focus states for accessibility */
+.btn:focus,
+.main-content a:focus {
+  outline: 3px solid var(--oxford-blue-accent) !important;
+  outline-offset: 2px;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--oxford-blue-lighter);
+  color: white;
+}
+
+/* Footer styling */
+.site-footer {
+  border-top: 2px solid rgba(0, 33, 71, 0.1);
+  margin-top: 3rem;
+  padding-top: 2rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.site-footer a {
+  color: var(--oxford-blue) !important;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 42em) {
+  nav a {
+    display: block !important;
+    margin: 0.5rem 0 !important;
+    width: 100%;
+  }
+  
+  .page-header h1 {
+    font-size: 2rem;
+  }
+  
+  .conference-info {
+    text-align: center;
+    margin-top: 1rem;
+  }
+}
+
+/* Additional styling for special elements */
+.highlight {
+  background-color: rgba(0, 33, 71, 0.1);
+  border-left: 4px solid var(--oxford-blue);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.announcement {
+  background: linear-gradient(135deg, rgba(0, 33, 71, 0.1), rgba(0, 66, 204, 0.1));
+  border: 1px solid var(--oxford-blue-lighter);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
