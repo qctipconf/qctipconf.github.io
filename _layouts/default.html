@@ -57,11 +57,11 @@
       }
     </style>
     
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" onload="document.documentElement.classList.add('css-loaded')">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}" onload="document.documentElement.classList.add('css-loaded')">
     
     <!-- Fallback for browsers that don't support onload -->
     <noscript>
-      <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+      <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
       <style>body { visibility: visible; }</style>
     </noscript>
     
