@@ -5,7 +5,7 @@ title: QCTiP 2026
 
 # Quantum Computing Theory in Practice (QCTiP)
 
-![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="300px"}
+![QCTiP Logo](assets/images/qctip2026.png){:.center-image width="300px"}
 
 ![Oxford Bridge of Sighs](assets/images/GAF-Bridge-of-Sighs-v1-Victoria-Maguire-Rajpaul.jpg)
 
