@@ -3,7 +3,7 @@ layout: default
 title: Call for Submissions
 ---
 
-![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="200px"}
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
 # Submit contribution
 

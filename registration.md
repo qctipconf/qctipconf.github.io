@@ -3,7 +3,7 @@ layout: default
 title: Registration
 ---
 
-![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="200px"}
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
 # Conference Registration
 
