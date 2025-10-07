@@ -9,13 +9,13 @@
   --oxford-blue-light: #003366;
   --oxford-blue-lighter: #004488;
   --oxford-blue-dark: #001122;
-  --oxford-blue-accent: #0066cc;
+  --oxford-blue-accent: #b3d1ff;
 }
 
 /* Header gradient - replace green with Oxford blue */
 .page-header {
-  background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
-  background-image: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+  background: var(--oxford-blue-accent) !important;
+  background-image: var(--oxford-blue-accent) !important;
   color: white;
   padding: 2rem;
 }

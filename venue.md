@@ -3,6 +3,8 @@ layout: default
 title: Venue
 ---
 
+![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="200px"}
+
 # Conference Venue
 
 

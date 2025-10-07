@@ -3,7 +3,7 @@ layout: default
 title: Call for Submissions
 ---
 
-![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="300px"}
+![QCTiP Logo](assets/images/qctip2026.jpg){:.center-image width="200px"}
 
 # Submit contribution
 
