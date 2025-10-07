@@ -26,10 +26,6 @@ _To be confirmed_
 
 _To be confirmed_
 
-## Sponsors
-
-_To be confirmed_
-
 ## Code of Conduct
 
 QCTiP2026 is committed to ensuring a harassment-free environment for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We maintain a zero-tolerance policy towards harassment in any form. Any participant found violating this code of conduct may face sanctions or expulsion from the conference, at the discretion of the organisers.
@@ -38,3 +34,6 @@ QCTiP2026 is committed to ensuring a harassment-free environment for all attende
 TODO: provide details for reporting CoC violations and getting local support. (see QCTiP 2025 website for example)
 -->
 
+## Confirmed Sponsors
+
+![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
