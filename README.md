@@ -48,8 +48,9 @@ The generated site will be in the `_site` directory.
 
 - `index.md` - Homepage
 - `about.md` - About the conference
-- `program.md` - Conference program and schedule
+- `programme.md` - Conference programme and schedule
 - `venue.md` - Venue and travel information
+- `registration.md` - Registration info
 - `contact.md` - Contact information
 - `_config.yml` - Jekyll configuration
 - `Gemfile` - Ruby dependencies
