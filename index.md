@@ -1,15 +1,9 @@
 ---
 layout: default
-title: QCTiP 2026
+title: Quantum Computing Theory in Practice 2026
 ---
 
-# Quantum Computing Theory in Practice (QCTiP)
-
-![QCTiP Logo](assets/images/qctip2026.png){:.center-image width="300px"}
-
-![Oxford Bridge of Sighs](assets/images/GAF-Bridge-of-Sighs-v1-Victoria-Maguire-Rajpaul.jpg)
-
-Welcome to the official website of **Quantum Computing Theory in Practice (QCTiP 2026)**, to be hosted by the [University of Oxford](https://www.ox.ac.uk/) in 2026.
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=max}
 
 ## About the Conference
 
