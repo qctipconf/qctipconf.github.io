@@ -3,7 +3,7 @@ layout: default
 title: Quantum Computing<br>Theory in Practice 2026
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=max}
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
 ## About the Conference
 
