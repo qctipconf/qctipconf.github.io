@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+
 # Contact Information
 
 ## Get in Touch
