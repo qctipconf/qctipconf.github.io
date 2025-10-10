@@ -11,6 +11,9 @@ Quantum hardware is living an exceptionally exciting phase and ongoing theoretic
 
 **QCTiP will be held at the (will be announced soon) between (dates to be announced soon).**
 
+
+![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
+
 ## Key Dates
 
 - **Abstract Submission Deadline:** TBC

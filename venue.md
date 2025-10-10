@@ -13,6 +13,8 @@ QCTiP 2026 will be held at the **University of Oxford**, one of the world's olde
 
 The specific venue within the University of Oxford will be announced soon.
 
+![Oxford Venue](assets/images/venue2.png){:.center-image width=100%}
+
 
 # Travel Information
 
