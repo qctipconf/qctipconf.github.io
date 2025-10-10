@@ -21,7 +21,7 @@ named after Sir Andrew Wiles who proved Fermat's Last Theorem.
 
 The QCTiP 2026 banquet dinner will be held in the Oxford Town Hall which is a beautiful listed building located in the heart of Oxford. 
 
-![Oxford Venue](assets/images/venue3.png){:.center-image width=100%}
+![Oxford Venue](assets/images/venue3.png){:.center-image width=60%}
 
 
 # Travel Information
