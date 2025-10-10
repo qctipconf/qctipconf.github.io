@@ -3,7 +3,7 @@ layout: default
 title: Venue
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){.center-image}
+![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image}
 
 # Venues
 
