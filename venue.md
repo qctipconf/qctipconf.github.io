@@ -3,7 +3,7 @@ layout: default
 title: Venue
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+![Oxford Bridge of Sighs](assets/images/cover.png){.center-image}
 
 # Venues
 
@@ -15,13 +15,13 @@ The Andrew Wiles building is home to the Mathematical Institute and has been
 named after Sir Andrew Wiles who proved Fermat's Last Theorem.
 
 
-![Oxford Venue](assets/images/venue2.png){:.center-image width=100%}
+![Oxford Venue](assets/images/venue2.png){:.center-images}
 
 ### Banquet dinner
 
 The QCTiP 2026 banquet dinner will be held in the Oxford Town Hall which is a beautiful listed building located in the heart of Oxford. 
 
-![Oxford Venue](assets/images/venue3.png){:.center-image width=60%}
+![Oxford Venue](assets/images/venue3.png){: style="width:60%;" .center-image}
 
 
 # Travel Information
