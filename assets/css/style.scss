@@ -242,3 +242,9 @@ nav a:focus {
   margin: 0 auto;
   text-align: center;
 }
+
+/* Adds spacing between list items globally */
+ul li,
+ol li {
+  margin-bottom: 10px; /* adjust to your liking */
+}

@@ -1,34 +1,44 @@
 ---
 layout: default
-title: Quantum Computing<br>Theory in Practice 2026
+title: Quantum Computing Theory in Practice
 ---
 
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
-## About the Conference
+## About QCTiP 2026
 
-Quantum hardware is living an exceptionally exciting phase and ongoing theoretical advancements are bringing practical applications of this hardware closer to realization. QCTiP aims to bring together academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
+Quantum hardware is living an exceptionally exciting phase and ongoing theoretical advancements
+are bringing practical applications of this hardware closer to realization.
+Quantum Computing Theory in Practice (QCTiP) aims to bring together academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
 
-**QCTiP will be held at the (will be announced soon) between (dates to be announced soon).**
+- **Venue:** Mathematical Institute, University of Oxford 
+- **Dates:** 20-22 April 2026
+- **Focus:** applied aspects of quantum computing theory
+- 360 participants
+- brings together researchers, practitioners, and industry leaders
+- 2 keynote talks, 54 contributed talks
+- 200 poster presentations
 
 
 ![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
 
 ## Key Dates
 
+- **Registration Opening:** TBC
 - **Abstract Submission Deadline:** TBC
 - **Notification of Acceptance:** TBC
-- **Early Registration Deadline:** TBC
+- **Early Bird Registration Deadline:** TBC
 - **Conference Dates:** TBC
 
 
 ## Organizing Committee
 
-_To be confirmed_
+- **Balint Koczor** (Mathematical Institute, Oxford)
+- **Aleks Kissinger** (Computer Science, Oxford)
 
-## Program Committee
+## Programme Committee Chair
 
-_To be confirmed_
+- **Richard Kueng** (Johannes Kepler University, Linz, Austria)
 
 ## Code of Conduct
 
