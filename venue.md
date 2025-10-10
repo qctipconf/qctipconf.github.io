@@ -12,7 +12,7 @@ title: Venue
 QCTiP 2026 will be held at the **University of Oxford**, one of the world's oldest and most prestigious universities,
 located in the historic city of Oxford, United Kingdom.
 
-The conference will be held in the the Andrew Wiles building which is home to the Mathematical Institute and has been
+The conference will be held in the the **Andrew Wiles Building** which is home to the **Mathematical Institute** and has been
 named after Sir Andrew Wiles who proved Fermat's Last Theorem.
 
 The Mathematical Insititue offers world-class facilities and welcomes guests for QCTiP 2026.
