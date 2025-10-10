@@ -7,7 +7,7 @@ title: Registration
 
 # QCTiP 2026 Registration
 
-A registration link will be made available here after registration opens. Please note that tickets will be sold on a first-come first-served basis
+A registration link will be made available here after registration opens. Please note that **tickets will be sold on a first-come first-served basis**
 and based on the interest in previous QCTiP editions, we expect tickets may sell out before registration closes.
 
 
@@ -29,3 +29,13 @@ We have reserved a limited number of accommodations at St Anne's College that pa
 Use this code: **QCTIP44815**
  
 Please note that the **booking link will expire on Monday 23rd February** and therefore bookings must be made before this date.
+
+## Recommended Hotels
+
+A list of recommended hotels will be made available here closer to the conference dates
+
+
+# Visa Information
+
+International attendees should check UK visa requirements well in advance. More information will be provided on the registration page.
+

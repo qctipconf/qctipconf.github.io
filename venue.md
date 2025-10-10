@@ -14,11 +14,6 @@ QCTiP 2026 will be held at the **University of Oxford**, one of the world's olde
 The specific venue within the University of Oxford will be announced soon.
 
 
-
-## Accommodation
-
-Information about recommended hotels and accommodation options will be provided closer to the conference date.
-
 # Travel Information
 
 ### About Oxford
@@ -47,7 +42,17 @@ Oxford is a beautiful city with over 1,000 years of history, world-class museums
 - Taxi and ride-sharing services available
 - Walking and cycling are popular ways to explore Oxford
 
-## Things to Do in Oxford
+### Finding Accommodation in Oxford
+
+Please refer to [Registration](/registration) for information about recommended hotels and accommodation options.
+
+**Important notice:** A major event, the [Skoll World Forum](https://skoll.org/) will take place later the same week as QCTiP 2026 in central Oxford.
+While Skoll does not directly affect the main QCTiP event in the Mathematical Institute, accommodation will be more difficult to find
+for the night of Tuesday the 21st April and after. For this reason we **strongly recommend that participants purchase a ticket for QCTiP as soon as possible
+and then book accommodation immediately after purchasing a ticket**. 
+
+
+### Things to Do in Oxford
 
 - Visit the historic Oxford colleges
 - Explore the Bodleian Library
@@ -55,8 +60,4 @@ Oxford is a beautiful city with over 1,000 years of history, world-class museums
 - Punt on the River Cherwell
 - Walk through the Oxford Botanic Garden
 - Discover the History of Science Museum
-
-## Visa Information
-
-International attendees should check UK visa requirements well in advance. More information will be provided on the registration page.
 
