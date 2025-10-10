@@ -9,6 +9,7 @@ title: Quantum Computing<br>Theory in Practice 2026
 
 Quantum hardware is living an exceptionally exciting phase and ongoing theoretical advancements are bringing practical applications of this hardware closer to realization. QCTiP aims to bring together academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
 
+**QCTiP will be held at the (will be announced soon) between (dates to be announced soon).**
 
 ## Key Dates
 
