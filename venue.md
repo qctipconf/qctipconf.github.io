@@ -5,15 +5,23 @@ title: Venue
 
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
-# Conference Venue
+# Venues
 
+### Main conference venue
 
-QCTiP 2026 will be held at the **University of Oxford**, one of the world's oldest and most prestigious universities, located in the historic city of Oxford, United Kingdom.
+QCTiP 2026 will be held at the **Mathematical Institute of the University of Oxford**, one of the world's oldest and most prestigious universities, located in the historic city of Oxford, United Kingdom.
 
+The Andrew Wiles building is home to the Mathematical Institute and has been
+named after Sir Andrew Wiles who proved Fermat's Last Theorem.
 
-The specific venue within the University of Oxford will be announced soon.
 
 ![Oxford Venue](assets/images/venue2.png){:.center-image width=100%}
+
+### Banquet dinner
+
+The QCTiP 2026 banquet dinner will be held in the Oxford Town Hall which is a beautiful listed building located in the heart of Oxford. 
+
+![Oxford Venue](assets/images/venue3.png){:.center-image width=100%}
 
 
 # Travel Information
