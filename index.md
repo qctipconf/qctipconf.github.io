@@ -7,8 +7,8 @@ title: Quantum Computing Theory in Practice
 
 ## About QCTiP 2026
 
-Quantum hardware is living an exceptionally exciting phase and ongoing theoretical advancements
-are bringing practical applications of this hardware closer to realization.
+We are witnessing impressive progress in quantum hardware development and ongoing theoretical advancements
+are bringing practical applications of this hardware closer to reality.
 Quantum Computing Theory in Practice (QCTiP) aims to bring together academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
 
 - **Venue:** Mathematical Institute, University of Oxford 
@@ -17,7 +17,7 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together academic com
 - 360 participants
 - brings together researchers, practitioners, and industry leaders
 - 2 keynote talks, 54 contributed talks
-- 200 poster presentations
+- 3 industry talks, 200 poster presentations
 
 
 ![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
@@ -31,14 +31,21 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together academic com
 - **Conference Dates:** TBC
 
 
-## Organizing Committee
+## Local Organisers
 
-- **Balint Koczor** (Mathematical Institute, Oxford)
+- **B&aacute;lint Koczor** (Mathematical Institute, Oxford)
 - **Aleks Kissinger** (Computer Science, Oxford)
 
 ## Programme Committee Chair
 
-- **Richard Kueng** (Johannes Kepler University, Linz, Austria)
+- **Richard Kueng** (Johannes Kepler University Linz)
+
+## Steering Committee
+- **Ophelia Crawford** (Riverlane)
+- **Elham Kashefi** (CNRS & Uni Edinburgh)
+- **Jens Eisert** (FU Berlin)
+- **Noah Linden** (Uni Bristol)
+- **Ashley Montanaro** (Uni Bristol & Phasecraft)
 
 ## Code of Conduct
 

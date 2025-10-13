@@ -7,6 +7,12 @@ title: Contact
 
 # Contact Information
 
+## Mailing list
+
+Please sign up to receive notifiactions of improtant events, such as when registration opens.
+
+[LINK TO BE ADDED]
+
 ## Get in Touch
 
 For inquiries about QCTiP 2026, please contact us using the information below.
