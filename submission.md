@@ -52,6 +52,12 @@ A brief abstract of 1-3 pages is sufficient for poster submissions.
 
 # Programme Committee
 
-- **Richard Kueng** (Chair of the programme committee)
+### Programme Committee Chair
+
+**Richard Kueng** 
+
+[ADD HERE Richard's BIO?]
+
+### Programme Committee Members
 - ADD MEMBERS HERE
 

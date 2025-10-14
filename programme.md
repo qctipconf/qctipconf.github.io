@@ -7,8 +7,14 @@ title: Programme
 
 # Conference Programme
 
+### Keynote Talks
+- **TBC**
+- **TBC**
 
-## QCTiP 2026 Program
+### Accepted Contributed Talks
+
+The list of accepted contributed talks will be published here after the key date **Notification of Acceptance**.
+
+### Schedule
 
 The detailed conference programme will be announced closer to the event date.
-

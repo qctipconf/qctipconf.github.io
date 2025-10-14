@@ -32,10 +32,10 @@ Please note that the **booking link will expire on Monday 23rd February at 9am**
 
 ## Recommended Hotels
 
-A list of recommended hotels will be made available here closer to the conference dates
+A list of recommended hotels will be made available here closer to the conference dates.
 
 
 # Visa Information
 
-International attendees should check UK visa requirements well in advance. More information will be provided on the registration page.
+International attendees should check UK visa requirements well in advance. Please do get in touch in case you require an invitation letter.
 

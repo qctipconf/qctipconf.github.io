@@ -33,8 +33,8 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together academic com
 
 ## Local Organisers
 
-- **B&aacute;lint Koczor** (Mathematical Institute, Oxford)
-- **Aleks Kissinger** (Computer Science, Oxford)
+- **B&aacute;lint Koczor** (Mathematical Institute, University of Oxford)
+- **Aleks Kissinger** (Computer Science, University of Oxford)
 
 ## Programme Committee Chair
 
