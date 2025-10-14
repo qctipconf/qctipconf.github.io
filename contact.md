@@ -29,7 +29,7 @@ Interested in sponsoring QCTiP 2026? Please contact us for sponsorship packages 
 
 ### Paper Submissions
 
-For questions about paper submissions, please contact the Program Committee Chair.
+For questions about paper submissions, please contact the Programme Committee Chair.
 
 <richard.kueng@jku.at>
 
