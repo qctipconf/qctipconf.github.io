@@ -14,7 +14,7 @@ such as when registration opens.
 
 [LINK TO BE ADDED]
 
-#### Get in Touch
+### Get in Touch
 
 For general inquiries about QCTiP 2026, and regarding
 conference organisation please contact us using the information below:
