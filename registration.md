@@ -28,7 +28,7 @@ We have reserved a limited number of accommodations at St Anne's College that pa
 
 Use this code: **QCTIP44815**
  
-Please note that the **booking link will expire on Monday 23rd February** and therefore bookings must be made before this date.
+Please note that the **booking link will expire on Monday 23rd February at 9am** and therefore bookings must be made before this date.
 
 ## Recommended Hotels
 

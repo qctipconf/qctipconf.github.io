@@ -41,12 +41,15 @@ Email: _To be announced_
 
 For registration-related questions, please email us at the general inquiries address above.
 
-## Location
+## Address
 
-University of Oxford  
-Oxford, United Kingdom
+University of Oxford<br>
+Radcliffe Observatory<br>
+Andrew Wiles Building<br>
+Woodstock Rd, OX2 6GG<br>
+Oxford, United Kingdom<br>
 
-_Specific venue address to be announced_
+
 
 
 
