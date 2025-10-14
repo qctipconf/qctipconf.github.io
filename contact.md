@@ -7,41 +7,37 @@ title: Contact
 
 # Contact Information
 
-## Mailing list
+### Sign up to Receive Notifications
 
-Please sign up to receive notifiactions of improtant events, such as when registration opens.
+You can sign up via the below link to receive notifiactions of improtant events,
+such as when registration opens.
 
 [LINK TO BE ADDED]
 
-## Get in Touch
+#### Get in Touch
 
-For inquiries about QCTiP 2026, please contact us using the information below.
+For general inquiries about QCTiP 2026, and regarding
+conference organisation please contact us using the information below:
 
-### General Inquiries
-
-Email: _To be announced_
-
-### Conference Organization
-
-_Contact details will be provided soon_
+<qctip2026@cs.ox.ac.uk>
 
 ### Sponsorship Opportunities
 
 Interested in sponsoring QCTiP 2026? Please contact us for sponsorship packages and benefits.
 
-Email: _To be announced_
+<qctip2026@cs.ox.ac.uk>
 
 ### Paper Submissions
 
-For questions about paper submissions, please contact the Program Committee.
+For questions about paper submissions, please contact the Program Committee Chair.
 
-Email: _To be announced_
+<richard.kueng@jku.at>
 
 ### Registration
 
 For registration-related questions, please email us at the general inquiries address above.
 
-## Address
+# Address
 
 University of Oxford<br>
 Radcliffe Observatory<br>
