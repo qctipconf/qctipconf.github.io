@@ -16,8 +16,8 @@ such as when registration opens.
 
 ### Get in Touch
 
-For general inquiries about QCTiP 2026, and regarding
-conference organisation please contact us using the information below:
+For general inquiries about QCTiP 2026, and inquiries about
+conference organisation please contact us using the below email address.
 
 <qctip2026@cs.ox.ac.uk>
 
