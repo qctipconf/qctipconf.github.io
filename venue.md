@@ -15,7 +15,11 @@ located in the historic city of Oxford, United Kingdom.
 The conference will be held in the the **Andrew Wiles Building** which is home to the **Mathematical Institute** and has been
 named after Sir Andrew Wiles who proved Fermat's Last Theorem.
 
-The Mathematical Insititue offers world-class facilities and welcomes guests for QCTiP 2026.
+
+The modern Andrew Wiles Building offers world-class facilities and is located centrally in Oxford, 
+surrounded by a concentration of science departments (Physics, Computer Science, Materials, Engineering, Chemistry)
+that conduct world-leading research in all aspects of quantum technologies. 
+
 
 
 ![Oxford Venue](assets/images/venue2.png){:.center-images}
