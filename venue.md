@@ -10,7 +10,9 @@ title: Venue
 ### Conference Venue
 
 QCTiP 2026 will be held at the **University of Oxford**, one of the world's oldest and most prestigious universities,
-located in the historic city of Oxford, United Kingdom.
+located in the historic city of Oxford, United Kingdom. Oxford is home to one of the most significant quantum centers
+within the UK and even globally, with more than 60 research groups in quanutm technologies.
+
 
 The conference will be held in the the **Andrew Wiles Building** which is home to the **Mathematical Institute** and has been
 named after Sir Andrew Wiles who proved Fermat's Last Theorem.
@@ -20,9 +22,20 @@ The modern Andrew Wiles Building offers world-class facilities and is located ce
 surrounded by a concentration of science departments (Physics, Computer Science, Materials, Engineering, Chemistry)
 that conduct world-leading research in all aspects of quantum technologies. 
 
-
-
 ![Oxford Venue](assets/images/venue2.png){:.center-images}
+
+
+### Near the Venue
+
+- (less than 1 min walk) The major development project, the Schwarzman Centre for the Humanities building has just opened and
+participants can enjoy its public spaces and its cafe
+
+- (3 min walk)  The MI is located at the heart of the lively Jericho district of Oxford which has a broad range of
+restaurants, pubs and cafes where participants can explore various breakfast and dinner options
+
+
+- (less than 5 min walk) other science departments
+
 
 ### Banquet Dinner
 
@@ -35,7 +48,9 @@ The QCTiP 2026 banquet dinner will be held in the **Oxford Town Hall** which is 
 
 ### About Oxford
 
-Oxford is a beautiful city with over 1,000 years of history, world-class museums, stunning architecture, and a vibrant cultural scene. The city is easily accessible from London and other major UK cities.
+Oxford is a beautiful city with over 1,000 years of history, world-class museums, stunning architecture, and a vibrant cultural scene.
+The city is very well connected by rail with major UK and EU cities and easily accessible from 3 major airports. Most University buildings and Colleges are within walking distance.
+
 
 
 ### Getting to Oxford
