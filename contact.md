@@ -12,7 +12,7 @@ title: Contact
 You can sign up via the below link to receive notifiactions of improtant events,
 such as when registration opens.
 
-[LINK TO BE ADDED]
+[Sign Up](https://forms.gle/F71sgY3am1UKYAck8)
 
 ### Get in Touch
 
