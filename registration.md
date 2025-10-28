@@ -10,6 +10,14 @@ title: Registration
 A registration link will be made available here after registration opens. Please note that **tickets will be sold on a first-come first-served basis**
 and based on the interest in previous QCTiP editions, we expect tickets may sell out before registration closes.
 
+### Key Dates
+
+- **Registration Opening:** TBC
+- **Early Bird Registration Deadline:** TBC
+- **College Accommodation Booking closes:** Monday 23rd February at 9am
+- **Conference Dates:** 20-22 April 2026
+
+
 
 # Accommodation
 

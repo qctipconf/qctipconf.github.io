@@ -26,7 +26,6 @@ Topics of interest include, but are not limited to:
 
 All submissions must be made online via the following link [TO BE ADDED SOON].
 
-
 ### Talk submissions
 
 A contributed talk submission must include a full technical manuscript
@@ -49,6 +48,13 @@ offered the opportunity to present as posters, unless deemed off-topic or techni
 
 If you intend to submit a poster-only contribution, please select the poster track during submission.
 A brief abstract of 1-3 pages is sufficient for poster submissions.
+
+# Key Dates
+
+- **Abstract Submission Deadline:** TBC
+- **Poster only Submission Deadline:** TBC
+- **Notification of Acceptance:** TBC
+
 
 # Programme Committee
 
