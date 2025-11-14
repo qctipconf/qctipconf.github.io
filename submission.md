@@ -30,7 +30,7 @@ All submissions must be made online via the following link [TO BE ADDED SOON].
 ### Talk submissions
 
 Details of the call for submissions coming soon. Please **[Sign Up](https://forms.gle/F71sgY3am1UKYAck8) to our mailing list
-to receive notifiactions of improtant events, such as when registration opens.**
+to receive notifications of important events, such as when registration opens.**
 
 
 <!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 

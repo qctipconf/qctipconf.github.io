@@ -9,7 +9,7 @@ title: Contact
 
 ### Sign up to Receive Notifications
 
-You can sign up via the below link to receive notifiactions of improtant events,
+You can sign up via the below link to receive notifications of important events,
 such as when registration opens.
 
 [Sign Up](https://forms.gle/F71sgY3am1UKYAck8)
