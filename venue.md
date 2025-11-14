@@ -11,7 +11,7 @@ title: Venue
 
 QCTiP 2026 will be held at the **University of Oxford**, one of the world's oldest and most prestigious universities,
 located in the historic city of Oxford, United Kingdom. Oxford is home to one of the most significant quantum centers
-within the UK and even globally, with more than 60 research groups in quanutm technologies.
+within the UK and even globally, with more than 60 groups conducting research in quanutm technologies.
 
 
 The conference will be held in the the **Andrew Wiles Building** which is home to the **Mathematical Institute** and has been
