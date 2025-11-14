@@ -8,8 +8,8 @@ title: Programme
 # Conference Programme
 
 ### Keynote Talks
-- **TBC**
-- **TBC**
+- **Mercedes Gimeno-Segovia** (PsiQuantum)
+- **Robin Kothari** (Google Quantum AI)
 
 ### Accepted Contributed Talks
 
