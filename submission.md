@@ -65,6 +65,7 @@ A brief abstract of 1-3 pages is sufficient for poster submissions.
 
 # Key Dates
 
+- **Talk Submission Opening:** TBC
 - **Talk Submission Deadline:** 11 January 2026
 - **Poster Submission Deadline:** 25 January 2026
 - **Notification of Acceptance:** 20 February 2026
