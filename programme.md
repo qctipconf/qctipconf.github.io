@@ -7,7 +7,7 @@ title: Programme
 
 # Conference Programme
 
-### Keynote Talks
+### Keynote Speakers
 - **Mercedes Gimeno-Segovia** (PsiQuantum)
 - **Robin Kothari** (Google Quantum AI)
 
