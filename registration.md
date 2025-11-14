@@ -44,7 +44,7 @@ A list of recommended hotels will be made available here closer to the conferenc
 
 <!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 
-We have reserved a limited number of accommodations atat the Holiday Inn Oxford. The conference venue is easiliy accessed for the Hotel by a convenient 15-min bus trip with the
+We have reserved a limited number of rooms at the Holiday Inn Oxford. The conference venue is easiliy accessed for the Hotel by a convenient 15-min bus trip with the
 bus stop located immediately in front of the Andrew Wiles Building [NAME OF BUS STOP]
 
 
