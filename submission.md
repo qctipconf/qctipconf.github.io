@@ -8,11 +8,11 @@ title: Call for Submissions
 
 # QCTiP 2026 Call for Submissions
 
+<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 Talks will be selected based on their scientific excellence, fit to the workshop theme,
 and overall programme balance.
 Submissions are expected that report on recent advances in quantum information and computation.
 Topics of interest include, but are not limited to:
-
 - Applications of quantum computers
 - Architectures for quantum computing
 - Quantum algorithms
@@ -22,12 +22,18 @@ Topics of interest include, but are not limited to:
 - Theory of near-term quantum computing
 - Verification of quantum software and hardware
 - Error mitigation and benchmarking
-
-
 All submissions must be made online via the following link [TO BE ADDED SOON].
+!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+
+
 
 ### Talk submissions
 
+Details of the call for submissions coming soon. Please **[Sign Up](https://forms.gle/F71sgY3am1UKYAck8) to our mailing list
+to receive notifiactions of improtant events, such as when registration opens.**
+
+
+<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 A contributed talk submission must include a full technical manuscript
 containing all technical details of the work.
 While manuscripts available on online repositories such as arXiv are acceptable,
@@ -43,27 +49,34 @@ Submissions must be complete and include sufficient information to allow verific
 
 Presenters are expected to attend the workshop in person. Submissions not selected for talks may be
 offered the opportunity to present as posters, unless deemed off-topic or technically unsound by the program committee.
+!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
 
+
+<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 ### Poster only submission
+!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
 
+<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 If you intend to submit a poster-only contribution, please select the poster track during submission.
 A brief abstract of 1-3 pages is sufficient for poster submissions.
+!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+
+
 
 # Key Dates
 
-- **Abstract Submission Deadline:** TBC
-- **Poster only Submission Deadline:** TBC
-- **Notification of Acceptance:** TBC
+- **Talk Submission Deadline:** 11 January 2026
+- **Poster Submission Deadline:** 25 January 2026
+- **Notification of Acceptance:** 20 February 2026
+- **Conference Dates:** 20-22 April 2026
 
 
 # Programme Committee
 
 ### Programme Committee Chair
 
-**Richard Kueng** 
-
-[ADD HERE Richard's BIO?]
+**Richard Kueng** (Johannes Kepler University Linz, Austria)
 
 ### Programme Committee Members
-- ADD MEMBERS HERE
+Details of the programme committee will be added soon.
 
