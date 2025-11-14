@@ -31,7 +31,7 @@ and then book accommodation immediately after purchasing a ticket**.
 
 ## College Accommodation
 
-We have reserved a limited number of accommodations at St Anne's College that participants can book via
+We have reserved a limited number of rooms at St Anne's College that participants can book via
 [St Anne's College's website](https://www.st-annes.ox.ac.uk/conferences-bb/accommodation/book-conference/) using the below code.
 
 Use this code: **QCTIP44815**
@@ -41,6 +41,19 @@ Please note that the **booking link will expire on Monday 23rd February at 9am**
 ## Recommended Hotels
 
 A list of recommended hotels will be made available here closer to the conference dates.
+
+<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
+
+We have reserved a limited number of accommodations atat the Holiday Inn Oxford. The conference venue is easiliy accessed for the Hotel by a convenient 15-min bus trip with the
+bus stop located immediately in front of the Andrew Wiles Building [NAME OF BUS STOP]
+
+
+Participants can book accommodation by clicking on the link below.
+Please note that the minimum stay lenght is 3 days and that the rooms are only held until 5th March 2026,
+so you need to secure your room before then.
+ 
+Please note that the **booking link will expire on Monday 23rd February at 9am** and therefore bookings must be made before this date.
+!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
 
 
 # Visa Information
