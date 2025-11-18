@@ -64,5 +64,6 @@ TODO: provide details for reporting CoC violations and getting local support. (s
 -->
 
 ## Confirmed Sponsors
+Further confirmed sponsors may be added soon
 
 ![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
