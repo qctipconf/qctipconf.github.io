@@ -3,9 +3,8 @@
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
 
-title: Quantum Computing Theory in Practice
+title: QCTiP 2026 Oxford 
 description: >-
-  Quantum Computing Theory in Practice (QCTiP 2026) Oxford
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qctipconf.github.io" # the base hostname & protocol for your site
 
