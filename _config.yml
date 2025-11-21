@@ -3,15 +3,15 @@
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
 
-title: QCTiP 2026 Oxford 
+title: Quantum Computing Theory in Practice
 description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qctipconf.github.io" # the base hostname & protocol for your site
 
 # Conference details
 conference:
-  name: "QCTiP 2026"
-  short_name: "Quantum Computing Theory in Practice"
+  name: "Quantum Computing Theory in Practice"
+  short_name: "QCTiP 2026"
   year: 2026
   location: "University of Oxford"
   city: "Oxford, United Kingdom"

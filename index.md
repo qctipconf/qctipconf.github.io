@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Quantum Computing Theory in Practice
+title: QCTiP 2026 Oxford
 ---
 
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
-## About QCTiP 2026
+## Quantum Computing Theory in Practice (QCTiP)
 
 
 We are witnessing impressive progress in quantum hardware development and ongoing theoretical advancements
