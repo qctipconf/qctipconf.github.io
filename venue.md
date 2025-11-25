@@ -51,9 +51,9 @@ The QCTiP 2026 banquet dinner will be held in the **Oxford Town Hall** which is 
 Oxford is a beautiful city with over 1,000 years of history, world-class museums, stunning architecture, and a vibrant cultural scene.
 The city is very well connected by rail with major UK and EU cities and easily accessible from 3 major airports. Most University buildings and Colleges are within walking distance.
 
-### Where to eat in Oxford
+### Where to Eat in Oxford
 
-Tim Chan is an Oxford-based DPhil student and `food enthusiast’.
+Tim Chan is an Oxford-based DPhil student and "food enthusiast".
 He kindly prepared [THIS](https://maps.app.goo.gl/Us58V45xaXWUTVYj7?g_st=i)
 collection of recommended places where participants can find delicious meals outside of the main conference venue.
 
