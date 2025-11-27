@@ -29,31 +29,40 @@ for the night of Tuesday the 21st April and after. For this reason we **strongly
 and then book accommodation immediately after purchasing a ticket**. 
 
 
-## College Accommodation
+## St Anne's College 
 
 We have reserved a limited number of rooms at St Anne's College that participants can book via
 [St Anne's College's website](https://www.st-annes.ox.ac.uk/conferences-bb/accommodation/book-conference/) using the below code.
 
 Use this code: **QCTIP44815**
- 
+
+Dates available are 19th April (check in) - 22nd April (check out).
 Please note that the **booking link will expire on Monday 23rd February at 9am** and therefore bookings must be made before this date.
+St Anne's College is located "just opposite the street", 3 mins walk from the conference venue. 
+
+
+## Holiday Inn Oxford Peartree
+
+We have reserved a limited number of rooms at the Holiday Inn Oxford which participants can book
+by clicking on the link below (or by choosing "Group Rate" and providing the code "GV3").
+
+[**Book a Room**](https://www.ihg.com/hotels/gb/en/find-hotels/select-roomrate?qDest=Oxford, United Kingdom&qPt=CASH&qCiD=19&qCoD=23&qCiMy=032026&qCoMy=032026&qAdlt=1&qChld=0&qRms=1&qAAR=6CBARC&qGrpCd=GV3&qSlH=OFDUK&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.kd.ma.sp.va.re.vx.nd.sx.we.lx.rn.sn.nu.ge&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qErm=false&qpMn=1&qRmFltr=)
+
+Dates available are 19th April (check in) - 23rd April (check out).
+Please note that the **minimum stay lenght is 3 days and that the rooms are only held until 5th March 2026**,
+and therefore bookings must be made before this date.
+
+The conference venue is conveniently
+accessible via a 10-min bus trip from the [Pear Tree Park and Ride](https://maps.app.goo.gl/p32tLLjf7Vrv8pEe9) bus station.
+Participants should take bus number 300 which stops immediately in front
+of the Andrew Wiles Building (name of the bus stop is Radcliffe Observatory Quarter).
+
+
+
 
 ## Recommended Hotels
 
 A list of recommended hotels will be made available here closer to the conference dates.
-
-<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
-
-We have reserved a limited number of rooms at the Holiday Inn Oxford. The conference venue is easiliy accessed for the Hotel by a convenient 15-min bus trip with the
-bus stop located immediately in front of the Andrew Wiles Building [NAME OF BUS STOP]
-
-
-Participants can book accommodation by clicking on the link below.
-Please note that the minimum stay lenght is 3 days and that the rooms are only held until 5th March 2026,
-so you need to secure your room before then.
- 
-Please note that the **booking link will expire on Monday 23rd February at 9am** and therefore bookings must be made before this date.
-!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
 
 
 # Visa Information
