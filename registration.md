@@ -31,6 +31,8 @@ and then book accommodation immediately after purchasing a ticket**.
 
 ## St Anne's College 
 
+![Oxford Venue](assets/images/St Annes.png){:.center-images}
+
 We have reserved a limited number of rooms at St Anne's College that participants can book via
 [St Anne's College's website](https://www.st-annes.ox.ac.uk/conferences-bb/accommodation/book-conference/) using the below code.
 
@@ -41,12 +43,14 @@ Please note that the **booking link will expire on Monday 23rd February at 9am**
 St Anne's College is located "just opposite the street", 3 mins walk from the conference venue. 
 
 
-## Holiday Inn Oxford Peartree
+## Holiday Inn Oxford Pear Tree
+
+![Oxford Venue](assets/images/HI.png){:.center-images}
 
 We have reserved a limited number of rooms at the Holiday Inn Oxford which participants can book
 by clicking on the link below (or by choosing "Group Rate" and providing the code "GV3").
 
-[**Book a Room**](https://www.ihg.com/hotels/gb/en/find-hotels/select-roomrate?qDest=Oxford, United Kingdom&qPt=CASH&qCiD=19&qCoD=23&qCiMy=032026&qCoMy=032026&qAdlt=1&qChld=0&qRms=1&qAAR=6CBARC&qGrpCd=GV3&qSlH=OFDUK&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.kd.ma.sp.va.re.vx.nd.sx.we.lx.rn.sn.nu.ge&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qErm=false&qpMn=1&qRmFltr=)
+[**Book a room**](https://www.ihg.com/hotels/gb/en/find-hotels/select-roomrate?qDest=Oxford, United Kingdom&qPt=CASH&qCiD=19&qCoD=23&qCiMy=032026&qCoMy=032026&qAdlt=1&qChld=0&qRms=1&qAAR=6CBARC&qGrpCd=GV3&qSlH=OFDUK&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.kd.ma.sp.va.re.vx.nd.sx.we.lx.rn.sn.nu.ge&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qErm=false&qpMn=1&qRmFltr=)
 
 Dates available are 19th April (check in) - 23rd April (check out).
 Please note that the **minimum stay lenght is 3 days and that the rooms are only held until 5th March 2026**,
