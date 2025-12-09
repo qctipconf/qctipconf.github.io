@@ -71,5 +71,15 @@ A list of recommended hotels will be made available here closer to the conferenc
 
 # Visa Information
 
-International attendees should check UK visa requirements well in advance. Please do get in touch in case you require an invitation letter.
+International attendees should check UK visa requirements well in advance.
+Participants will be asked during the registration stage whether they need help
+with their visa applications. Please tick "yes" and please note that participants then
+still need to get in touch with us at <qctip2026@cs.ox.ac.uk> in case they need an invitation letter.
+
+**When requesting a visa invitation letter, please include the following in your email**.
+- Name
+- QCTiP ticket ID (Order Number)
+- Institution
+- City and Country of institution
+
 
