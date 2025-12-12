@@ -8,10 +8,12 @@ title: Call for Submissions
 
 # QCTiP 2026 Call for Submissions
 
-<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
-Talks will be selected based on their scientific excellence, fit to the workshop theme,
-and overall programme balance.
-Submissions are expected that report on recent advances in quantum information and computation.
+Talks will be selected based on their scientific excellence,
+fit to the workshop theme, and overall programme balance.
+Submissions are expected that report on recent advances in
+quantum information and computation.
+
+
 Topics of interest include, but are not limited to:
 - Applications of quantum computers
 - Architectures for quantum computing
@@ -22,8 +24,10 @@ Topics of interest include, but are not limited to:
 - Theory of near-term quantum computing
 - Verification of quantum software and hardware
 - Error mitigation and benchmarking
-All submissions must be made online via the following link [TO BE ADDED SOON].
-!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+
+
+All submissions must be made online via the following link [LINK will be added soon].
+
 
 
 
