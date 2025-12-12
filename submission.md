@@ -26,44 +26,44 @@ Topics of interest include, but are not limited to:
 - Error mitigation and benchmarking
 
 
-All submissions must be made online via the following link [LINK will be added soon].
+**All submissions must be made online via the following link** [LINK will be added soon].
 
 
 
 
-### Talk submissions
-
-Details of the call for submissions coming soon. Please **[Sign Up](https://forms.gle/F71sgY3am1UKYAck8) to our mailing list
-to receive notifications of important events, such as when registration opens.**
+### Talk Submissions Format
 
 
-<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
 A contributed talk submission must include a full technical manuscript
 containing all technical details of the work.
 While manuscripts available on online repositories such as arXiv are acceptable,
 a PDF copy must still be uploaded. Only original research papers will be considered;
 survey papers, PhD theses, and white papers are not eligible.
 
-If your submission comprises multiple papers, please combine them into a single PDF file.
-The first ten pages should clearly demonstrate the significance and suitability of the work for the workshop.
-It is recommended-but not mandatory-that the submission begin with an Extended Abstract of
-up to three pages, followed by the full paper.
-The program committee may review the full paper at their discretion.
-Submissions must be complete and include sufficient information to allow verification of results.
-
-Presenters are expected to attend the workshop in person. Submissions not selected for talks may be
-offered the opportunity to present as posters, unless deemed off-topic or technically unsound by the program committee.
-!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+**Submissions must include the following two PDFs**
+- a self-contained 3-page extended abstract
+- a technical manuscript that should ideally be available on the arXiv
 
 
-<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
-### Poster only submission
-!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+The program committee will base their decisions largely on the extended abstract,
+but may review the full paper at their discretion. If your submission comprises
+multiple papers, please combine them into a single PDF file.
+Submissions must be complete and include sufficient information
+to allow verification of results.
 
-<!-- !!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!! 
-If you intend to submit a poster-only contribution, please select the poster track during submission.
-A brief abstract of 1-3 pages is sufficient for poster submissions.
-!!!!!!!!!!!COMMMENTING THIS OUT!!!!!!!!!!!!  -->
+
+Presenters are expected to attend the workshop in person and therefore
+need to make sure to purchase a ticket before the registration deadline.
+Submissions not selected for talks may be offered the opportunity to
+present as posters, unless deemed out of scope by the programme committee.
+
+
+
+### Poster Only Submission
+
+If you intend to submit a poster-only contribution, please select
+the poster track during submission. A brief abstract of 1-3 pages
+is sufficient for poster submissions.
 
 
 
@@ -80,7 +80,27 @@ A brief abstract of 1-3 pages is sufficient for poster submissions.
 
 ### Programme Committee Chair
 
+<img src="assets/images/Richard_Kueng.jpg"
+     alt="Oxford Venue"
+     width="20%"
+     style="display:block; margin:auto;">
+	 
 **Richard Kueng** (Johannes Kepler University Linz, Austria)
+
+Richard Kueng pursues an interdisciplinary research agenda at the interface between
+computer science (algorithms & computational complexity), physics
+(quantum information & quantum technologies) and applied math (convex geometry & high
+dimensional probability theory). Broadly speaking, he aspires to develop efficient and
+simple solutions for important algorithmic challenges that also come with rigorous performance
+guarantees. Together with Hsin-Yuan Huang and John Preskill (both at Caltech), Richard Kueng
+developed the classical shadow formalism -- an efficient quantum-to-classical
+conversion procedure that has made a lasting impact on quantum computing technologies.
+He is currently a full professor at JKU Linz and head of the department for quantum computing.
+He is also a member of the board of directors in the Austrian excellence cluster quantA
+and an elected member of the young Austrian academy of Sciences. In 2023, Richard Kueng
+received both a Starting Grant from the European Research Council (ERC), as well as the
+Austrian pendant called FWF START. 
+
 
 ### Programme Committee Members
 Details of the programme committee will be added soon.
