@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to:
 - Error mitigation and benchmarking
 
 
-**All submissions must be made online via the following link** [LINK will be added soon].
+**All submissions must be made online via the following link** [LINK will be added imminently].
 
 
 
