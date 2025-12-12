@@ -103,5 +103,40 @@ Austrian pendant called FWF START.
 
 
 ### Programme Committee Members
-Details of the programme committee will be added soon.
+
+
+- **Antonio Ana Mele** (FU Berlin)
+- **Francesco Ana Mele** (Scuola Normale Superiore di Pisa)
+- **Leandro Aolita** (Technology Innovation Institute Abu Dhabi)
+- **Janos Asboth** (Budapest University of Technology)
+- **Lucas Berendt** (Iceberg Quantum)
+- **Paolo Braccia** (Los Alamos National Lab)
+- **Daniel Cavalcanti** (Algorithmiq)
+- **Jonathan Conrad** (EPFL Lausanne)
+- **Andrew Doherty** (University of Sydney)
+- **Andreas Elben** (Paul Scherrer Institute)
+- **Paul Faehrmann** (FU Berlin)
+- **Philippe Faist** (FU Berlin)
+- **Diego Garcia** (Los Alamos National Lab)
+- **Sander Gribling** (Tilburg University)
+- **Jonas Haferkamp** (Saarland University)
+- **Jonas Helsen** (CWI Amsterdam)
+- **Michael Kastoryano** (AWS and University of Copenhagen)
+- **Robbie King** (Google Quantum AI and Caltech)
+- **Johannes Knoerzer** (ETH Zurich)
+- **Aleks Kubica** (Yale)
+- **Anthony Leverrier** (INRIA)
+- **Sam McArdle** (AWS)
+- **Alex Nietner** (FU Berlin)
+- **Michal Oszmaniec** (NASK Warsaw)
+- **Aadil Oufkir** (RWTH Aachen)
+- **Adrian Perez-Salinas** (ETH Zurich)
+- **Lirande Pira** (National University of Singapore)
+- **Sergi Ramos Calderer** (National University of Singapore)
+- **Mark Steudtner** (PsiQuantum)
+- **Daniel Stilck-Franca** (University of Copenhagen)
+- **David Sutter** (IBM Quantum)
+- **Jordi Tura** (Leiden University)
+- **Zoltan Zimboras** (Algorithmiq and University of Helsinki)
+
 
