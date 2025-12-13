@@ -27,8 +27,8 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 
 ## Key Dates
 
-- **Registration Opening:** TBC
-- **Early Bird Registration Deadline:** TBC
+- **Registration Opening:** 12 December 2025
+- **Early Bird Registration Deadline:** 27 February 2026
 - **Talk Submission Opening:** TBC
 - **Talk Submission Deadline:** 11 January 2026
 - **Poster Submission Deadline:** 25 January 2026
