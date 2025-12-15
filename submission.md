@@ -103,7 +103,7 @@ Austrian pendant called FWF START.
 
 
 ### Programme Committee Members
-Further PC member will be added soon
+Further PC members will be added soon
 
 - **Antonio Ana Mele** (FU Berlin)
 - **Francesco Ana Mele** (Scuola Normale Superiore di Pisa)
