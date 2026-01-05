@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to:
 - Error mitigation and benchmarking
 
 
-**All submissions must be made online via the following link** [LINK will be added imminently].
+**All submissions must be made online via the link** [**[HERE]**](https://qctip2026.hotcrp.com/).
 
 
 
@@ -69,7 +69,7 @@ is sufficient for poster submissions.
 
 # Key Dates
 
-- **Talk Submission Opening:** TBC
+- **Talk Submission Opening:** 5 January 2026
 - **Talk Submission Deadline:** 11 January 2026
 - **Poster Submission Deadline:** 25 January 2026
 - **Notification of Acceptance:** 20 February 2026

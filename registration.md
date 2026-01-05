@@ -42,7 +42,7 @@ However, we request participants to sign up only if they know they will be able 
 - **Early-Bird Student Registration Fee: &#163;200**
 - **Early-Bird Staff Registration Fee: &#163;300**
 
-Click on the following link to purchase tickets  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
+Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
 
 ### Travel Support
 
