@@ -112,6 +112,7 @@ Austrian pendant called FWF START.
 - **Lucas Berent** (Iceberg Quantum)
 - **Vjosa Blakaj** (University of Copenhagen)
 - **Paolo Braccia** (Los Alamos National Lab)
+- **Michael Bremner** (UTS Sydney)
 - **Dan Browne** (University College London)
 - **Daniel Cavalcanti** (Algorithmiq)
 - **Jonathan Conrad** (EPFL Lausanne)
@@ -163,6 +164,6 @@ Austrian pendant called FWF START.
 - **James Wootton** (MothQuantum)
 - **Leonardo Zambrano** (ICFO)
 - **Zoltan Zimboras** (Algorithmiq and University of Helsinki)
-- **Sebastian Zur** (CWI Amsterdam)
+- **Sebastian Zur** (IRIF, CNRS)
 
 
