@@ -41,7 +41,7 @@ a PDF copy must still be uploaded. Only original research papers will be conside
 survey papers, PhD theses, and white papers are not eligible.
 
 **Submissions must include the following two PDFs**
-- a self-contained 3-page extended abstract
+- a self-contained 3-page (excluding bibliography) extended abstract
 - a technical manuscript that should ideally be available on the arXiv
 
 
