@@ -148,7 +148,7 @@ Austrian pendant called FWF START.
 - **Alex Meiburg** (Perimeter Institute)
 - **Alex Nietner** (FU Berlin)
 - **Harold Ollivier** (Inria)
-- **Michal Oszmaniec** (NASK Warsaw)
+- **Michal Oszmaniec** (CTP PAS Warsaw)
 - **Aadil Oufkir** (RWTH Aachen)
 - **Adrian Perez-Salinas** (ETH Zuerich)
 - **Lirande Pira** (National University of Singapore)
