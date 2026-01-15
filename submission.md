@@ -127,6 +127,7 @@ Austrian pendant called FWF START.
 - **Philippe Faist** (FU Berlin)
 - **Marco Fanizza** (Inria)
 - **Diego Garcia Martin** (Los Alamos National Lab)
+- **Linnea Grans-Samuelsson** (University of Oxford)
 - **Sander Gribling** (Tilburg University)
 - **Dmitry Grinko** (QuSoft Amsterdam)
 - **Shouzhen Gu** (Yale)
