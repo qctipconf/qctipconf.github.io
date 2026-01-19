@@ -153,7 +153,7 @@ Austrian pendant called FWF START.
 - **Michal Oszmaniec** (CTP PAS Warsaw)
 - **Aadil Oufkir** (RWTH Aachen)
 - **Adrian Perez-Salinas** (ETH Zuerich)
-- **Lirande Pira** (National University of Singapore)
+- **Lirand&euml; Pira** (National University of Singapore)
 - **Alejandro Posas-Kerstjens** (Universite de Geneve)
 - **Sergi Ramos Calderer** (National University of Singapore)
 - **Joschka Roffe** (University of Edinburgh)
