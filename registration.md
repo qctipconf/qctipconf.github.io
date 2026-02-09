@@ -69,7 +69,7 @@ Cancellation requests made after the registration deadline may not be granted.
 
 The [Skoll World Forum](https://skoll.org/) will take place later in the same week as QCTiP 2026
 in central Oxford. While this does not affect the main QCTiP activities at the Mathematical Institute,
-accommodation is likely to be particularly difficult to secure for the night of Tuesday 21th April and onwards.
+accommodation is likely to be particularly difficult to secure for the night of Tuesday 21st April and onwards.
 For this reason, we **strongly recommend purchasing a QCTiP ticket as soon as possible and booking accommodation immediately thereafter.**
 
 
