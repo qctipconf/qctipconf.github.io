@@ -9,8 +9,7 @@ title: Programme
 
 ### Keynote Speakers
 - **Robin Kothari** (Google Quantum AI)
-- TBC <!--**Mercedes Gimeno-Segovia** (PsiQuantum)-->
-
+- **Simon Benjamin** (University of Oxford and Quantum Motion)
 ### Accepted Contributed Talks
 
 The list of accepted contributed talks will be published here after the key date **Notification of Acceptance**.
