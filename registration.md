@@ -44,7 +44,7 @@ However, we request participants to sign up only if they know they will be able 
 
 Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
 
-### Travel Support
+### Travel and Financial Support
 
 We have a limited capacity to provide financial help with conference costs for a small
 number of attendees. If you require financial help in order to be able to attend, then
