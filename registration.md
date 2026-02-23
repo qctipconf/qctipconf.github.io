@@ -83,7 +83,7 @@ We have reserved a limited number of rooms at St Anne's College that participant
 Use this code: **QCTIP44815**
 
 Dates available are 19th April (check in) - 22nd April (check out).
-Please note that the **booking link will expire on Monday 23rd February at 9am** and therefore bookings must be made before this date.
+<span style="color:red;">[**deadline has been extended**]</span> The **booking link will expire on Monday 9th March at 9am** and therefore bookings must be made before this date.
 St Anne's College is located "just opposite the street", 3 mins walk from the conference venue. 
 
 
