@@ -32,7 +32,8 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 - **Talk Submission Opening:** 5 January 2026
 - **Talk Submission Deadline:** 11 January 2026
 - **Poster Submission Deadline:** 25 January 2026
-- **Notification of Acceptance:** 20 February 2026
+- **Talk Notification of Acceptance:** 20 February 2026
+- **Poster Notification of Acceptance:** 25 February 2026
 - **Registration Closing:** 23 March 2026
 - **Conference Dates:** 20-22 April 2026
 
