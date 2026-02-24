@@ -77,3 +77,219 @@ The below list is not the final programme and subject to confirmation by present
 - **(#573) The FLuid Allocation of Surface code Qubits (FLASQ) cost model for early fault-tolerant quantum algorithms.** --- William J. Huggins, Tanuj Khattar, Amanda Xu, Matthew Harrigan, Christopher Kang, Guang Hao Low, Austin Fowler, Nicholas C. Rubin, Ryan Babbush
 - **(#655) Optimal randomized measurements for a family of non-linear quantum properties** --- Zhenyu Du, Yifan Tang, Andreas Elben, Ingo Roth, Jens Eisert, Zhenhuan Liu
 
+
+
+### Accepted Poster Presentations
+The below list is not final and subject to confirmation by presenting authors. 
+
+
+-   **(1) Optimising quantum data hiding** --- Francesco Anna Mele, Ludovico Lami
+-   **(8) Efficient Qubit Routing for Diverse Quantum ISAs via Canonical Representation** --- Zhaohui Yang, Kai Zhang, Xinyang Tian, Xiangyu Ren, Yingjian Liu, Yunfeng Li, Dawei DIng, Jianxin Chen, Yuan Xie
+-   **(10) Phase Shadow: A noise-tolerant path to global quantum property estimation** --- Qingyue Zhang, Dayue Qin, Zhou You, Feng Xu, Jens Eisert, You Zhou
+-   **(16) Stability of digital and analog quantum simulations under noise** --- Jayant Rao, Jens Eisert, Tommaso Guaita
+-   **(17) Demonstration of measurement-free universal fault-tolerant quantum computation** --- Robert Freund, Friederike Butt, Ivan Pogorelov, Alex Steiner, Marcel Meyer, Thomas Monz, Markus Müller
+-   **(20) Verifiable blind observable estimation** --- Bo Yang, Elham Kashefi, Harold Ollivier
+-   **(23) Encoding molecular structures in quantum machine learning** --- Choy Boy, Edoardo Altamura, Dilhan Manawadu, Ivano Tavernelli, Stefano Mensa, David J. Wales
+-   **(24) Quantum algorithms for equational reasoning** --- Davide Rattacaso, Daniel Jaschke, Marco Ballarin, Ilaria Siloi, Simone Montangero
+-   **(27) A scalable advantage in multi-photon quantum machine learning** --- Tobias Haug, Yong Wang, Zhenghao Yin, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Philip Walther
+-   **(28) Classical Noise Inversion: A Practical and Optimal framework for Robust Quantum Applications** --- Dayue Qin, Ying Li, You Zhou
+-   **(30) Estimating applied potentials in cold atom lattice simulators** --- Bhavik Kumar, Daniel Malz
+-   **(33) Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy** --- Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth
+-   **(37) Preparing low-variance states using a distributed quantum algorithm** --- Xiaoyu Liu, Benjamin F. Schiffer, Jordi Tura
+-   **(38) State-average orbital-optimized VQE for excited-state quantum chemistry** --- Bruno Senjean, Benjamin Lasorne, Saad Yalouz, Martin Beseda, Silvie Illesova
+-   **(40) Power and Limitations of Linear Programming Decoder for Quantum LDPC Codes** --- Shouzhen (Bailey) Gu, Mehdi Soleimanifar
+-   **(41) Sparsity-dependent Complexity Lower Bound of Quantum Linear System Solvers** --- Hitomi Mori, Yuta Kikuchi, Marcello Benedetti, Matthias Rosenkranz
+-   **(43) Statistical Signatures of Barren Plateaus Beyond Observable Concentration** --- Zi-Shen Li, Bujiao Wu, Xiao-Wei Li, Wenkang Weng
+-   **(44) Fast-forwardable Lindbladians imply quantum phase estimation** --- Zhongxia Shang, Naixu Guo, Patric Rebentrost, Al´an Aspuru-Guzik, Tongyang Li, Qi Zhao
+-   **(45) Classical Simulation of Noiseless Quantum Dynamics without Randomness** --- Jue Xu, Chu Zhao, Xiangran Zhang, Shuchen Zhu, Qi Zhao
+-   **(47) Native Measurement Based Variational Ansatze: Design and Analysis** --- Rajarsi Pal, Harold Ollivier, Marta Leonetti
+-   **(50) Sample-Optimal Fidelity Estimation via Nonlinear Post-Processing of Pauli Measurements** --- Guedong Park, Yong Siah Teo, Hyunseok Jeong
+-   **(52) An implementation of quantum oracles for the finite element method** --- Sven Danz, Tobias Stollenwerk, Alessandro Ciani
+-   **(54) Efficient graph-diagonal characterization of noisy states distributed over quantum networks via Bell sampling** --- Zherui Wang, Joshua Carlo A. Casapao, Naphan Benchasattabuse, Ananda G. Maity, Jordi Tura, Akihito Soeda, Michal Hajdušek, Rodney Van Meter, David Elkouss
+-   **(55) Efficient Learning Algorithms for Structured Bosonic and Fermionic Unitary Operators** --- Marco Fanizza, Vishnu Iyer, Junseo Lee, Antonio Anna Mele, Francesco Anna Mele
+-   **(59) Average-computation benchmarking for local expectation values in digital quantum devices** --- Flavio Baccari, Pavel Kos, Georgios Styliaris
+-   **(60) Lazy Quantum Walks with Native Multiqubit Gates** --- Steph Foulds, Viv Kendon
+-   **(69) Efficient Characterization of Coherent and Correlated Low-Degree Noise in Layers of Gates** --- Marianna Crupi, Ignacio Cirac, Flavio Baccari
+-   **(73) A memory-efficient, symbolic and exact simulator of universal quantum programs** --- George Umbrarescu, David Amaro
+-   **(74) Quantum algorithm for dephasing of coupled systems: decoupling and IQP duality** --- Sabrina Yue Wang, Raul A. Santos
+-   **(75) Dequantization and Hardness of Spectral Sum Estimation** --- Roman Edenhofer, Atsuya Hasegawa, François Le Gall
+-   **(77) A Folded Surface Code Architecture for 2D Quantum Hardware** --- Zhu Sun, Zhenyu Cai
+-   **(80) Circuit-Efficient Randomized Quantum Simulation of Non-Unitary Dynamics with Observable-Driven and Symmetry-Aware Designs** --- SONGQINGHAO YANG, Jinpeng Liu
+-   **(82) The table maker's quantum search** --- Stefanos Kourtis
+-   **(86) Power and limitations of distributed quantum state purification** --- Benchi Zhao, Yu-Ao Chen, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
+-   **(88) Universal digital quantum computation with global control in superconducting architectures** --- Roberto Menta, Francesco Cioni, Riccardo Aiudi, Ashkan Abedi, Guido Menichetti, Francesco Caravelli, Marco Polini, Vittorio Giovannetti
+-   **(90) The symplectic rank of non-Gaussian quantum states** --- Francesco Anna Mele, Salvatore Francesco Emanuele Oliviero, Varun Upreti, Ulysse Chabaud
+-   **(92) Cost-effective scalable quantum error mitigation for tiled Ansätze** --- Oskar Graulund Lentz Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Jacob Kongsted, Karl Michael Ziems
+-   **(93) Achievable rates in non-asymptotic bosonic quantum communication** --- Francesco Anna Mele, Giovanni Barbarino, Vittorio Giovannetti, Marco Fanizza
+-   **(94) Classically trainable architectures for scalable quantum generative modeling** --- Bence Bakó, Zoltán Kolarovszki, Michał Oszmaniec, Changhun Oh, Zoltán Zimborás
+-   **(97) Quantum synchronisation errors: An insertion-deletion equivalence and near-term error-correction protocol** --- Lewis Bulled, Yingkai Ouyang
+-   **(101) Efficient Simulation of Sparse, Non-Local Fermion Models** --- Reinis Irmejs, Ignacio Cirac
+-   **(102) Do quantum linear solvers offer quantum advantage for networks-based system of linear equations?** --- Disha Shetty, Supriyo Dutta, Palak Chawla, Akshaya Jayashankar, Kenji Sugisaki, Jordi Riu, Jan Nogue, Srinivasa Prasannaa V
+-   **(105) Cross-platform fidelity with local random unitaries** --- Bujiao Wu, Changrong Xie, Peng Mi, Zhiyi Wu, Zechen Guo, Peisheng Huang, Wenhui Huang, Xuandong Sun, Jiawei Zhang, Libo Zhang, Jiawei Qiu, Xiayu Linpeng, Ziyu Tao, Ji Chu, Ji Jiang, Song Liu, Jingjing Niu, Yuxuan Zhou, Yuxuan Du, Wenhui Ren, Youpeng Zhong, Tongliang Liu, Dapeng Yu
+-   **(107) Scalable decoding protocols for fast transversal logic in the surface code** --- Mark L. Turner, Earl T. Campbell, Ophelia Crawford, Neil I. Gillespie, Joan Camps
+-   **(108) Heisenberg-limited and low-depth amplitude estimation from ancilla-free statistical phase estimation** --- Po-Wei Huang, Bálint Koczor
+-   **(109) When quantum resources backfire: Non-gaussianity and symplectic coherence in noisy bosonic circuits** --- Varun Upreti, Ulysse Chabaud, Zoë Holmes, Armando Angrisani
+-   **(110) Entanglement Detection with Variational Quantum Interference: Theory and Experiment** --- Rui Zhang, Zhenhuan Liu, Chendi Yang, Yue-Yang Fei, Xu-Fei Yin, Yingqiu Mao, Li Li, Nai-Le Liu, Yu-Ao Chen, Jian-Wei Pan
+-   **(111) How an Equi-ensemble Description Systematically Outperforms the Weighted-ensemble Variational Quantum Eigensolver** --- Akilan Rajamani, Martin Beseda, Benjamin Lasorne, Bruno Senjean
+-   **(112) Advantage for Discrete Variational Quantum Algorithms in Circuit Recompilation** --- Oleksandr Kyriienko, Chukwudubem Umeano, Zoë Holmes
+-   **(116) Optimal Haar random fermionic linear optics circuits** --- Paolo Braccia, N. L. Diaz, Martin Larocca, M. Cerezo, Diego Garcia Martin
+-   **(117) A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional** --- Martin Joseph Uttendorfer, Daniel Barragan-Yani, Matthias Sperl, Marc Landmann
+-   **(118) Hamiltonian learning via quantum Zeno effect** --- Giacomo Franceschetto, Egle Pagliaro, Leonardo Zambrano, Luciano Pereira, Antonio Acín
+-   **(119) Solving larger Travelling Salesman Problem networks with a penalty-free Variational Quantum Algorithm** --- Daniel Goldsmith, Xing Liang, Dimitrios Makris, Hongwei Wu
+-   **(125) Efficient LCU block encodings and polynomial transformations that can also be trivially controlled** --- Martina Nibbi, Filippo Della Chiara, Yizhi Shen, Aaron Szasz, Roel Van Beeumen
+-   **(128) From Fermions to Qubits: A ZX-Calculus Perspective** --- Haytham McDowall-Rose, Razin Shaikh, Lia Yeh
+-   **(131) Pauli Propagation: A Computational Framework for Simulating Quantum Systems** --- Manuel S. Rudolph, Tyson Jones, Yanting Teng, Armando Angrisani, Zoë Holmes
+-   **(134) Entanglement as a probe to the robustness of topological quantum codes** --- Harikrishnan K J, Amit Kumar Pal
+-   **(141) Nonlinear photonic architecture for fault-tolerant quantum computing** --- Maike Ostmann, Joshua Nunn, Alexander Jones
+-   **(142) On the stability to noise of fermion to qubit mappings** --- Guillermo González García, Filippo Maria Gambetta, Raul A. Santos
+-   **(144) Generalized cross-resonance scheme for maximally-entangling two-qutrit gates** --- Yash Saxena, Tharrmashastha SAPV, Sagnik Chatterjee, Ray-Kuang Lee
+-   **(148) Variational quantum algorithms for continuum modelling of batteries** --- Albert Pool, Michael Schelling, Birger Horstmann
+-   **(149) Concentration-Free Quantum Kernel Learning in the Rydberg Blockade** --- Ayana Sarkar, Martin Schnee, Roya Radgohar, Seyedeh Mozhde Fadaie, Victor Drouin-Touchette, Stefanos Kourtis
+-   **(163) A Quantum Gate Architecture via Teleportation and Entanglement** --- Callum Duncan, Samuel Sheldon, Pieter Kok
+-   **(165) Hybrid Quantum-Classical Algorithms for Molecular Vibronic Spectroscopy: Theory, Implementation, and Applications to UV-Visible Absorption and Electronic Circular Dichroism** --- Renato Olarte Hernandez
+-   **(169) Correcting quantum errors using a classical code and one additional qubit** --- Tenzan Araki, Joseph Goodwin, Zhenyu Cai
+-   **(170) A partition function framework for estimating logical error curves in stabilizer codes** --- Linnea Grans-Samuelsson, Leon Wichette, Hans Hohenfeld, Elie Mounzer
+-   **(176) Logical accreditation: a framework for efficient certification of fault-tolerant computations** --- James Mills, Adithya Sireesh, Dominik Leichtle, Joschka Roffe, Elham Kashefi
+-   **(177) Fault Tolerance by Construction: Synthesis and Optimisation for the Steane Code** --- Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger
+-   **(178) Stochastic Time-Evolved Quantum-Selected Configuration Interaction for Embedded Multiscale Molecular Simulation** --- Tim Weaving, Alexis Ralli, Tom Bickley, Angus Mingare, Michael Williams De La Bastida, Peter Coveney
+-   **(179) Quantum low-density lattice codes** --- Timo Hillmann, Jens Eisert, Francesco Arzani
+-   **(181) Efficient Eigenstate Preparation in an Integrable Model with Hilbert Space Fragmentation** --- Alejandro Sopena, Roberto Ruiz, Balazs Pozsgay, Esperanza Lopez
+-   **(185) Variational quantum algorithms with exact geodesic transport** --- André Juan Ferreira-Martins, Renato Farias M. S., Giancarlo Camilo, Thiago O. Maciel, Allan Tosta, Ruge Lin, Abdulla Alhajri, Tobias Haug, Leandro Aolita
+-   **(193) How "Quantum" is your Quantum Computer? Macrorealism-based Benchmarking via Mid-Circuit Parity Measurement** --- Lorenzo Braccini, Sougato Bose, Ben Zindorf, Debarshi Das
+-   **(196) Measuring Multiparticle Indistinguishability with the Generalized Bunching Probability** --- Shawn Geller, Emanuel Knill
+-   **(204) On the emergence of quantum memory in non-Markovian dynamics** --- Alexander Yosifov, Aditya Iyer, Vlatko Vedral, jinzhao sun
+-   **(215) Reducing quantum resources for observable estimation with window-assisted coherent QPE** --- Harriet Apel, Cristian L Cortes, Jessica Lemieux, Mark Steudtner
+-   **(218) Stabilizer-based quantum simulation of fermion dynamics with local qubit encodings** --- Anthony Gandon, Samuele Piccinelli, Jannes Nys, Ivano Tavernelli
+-   **(219) Addressable fault-tolerant universal gate operations for high-rate lift-connected surface codes** --- Josias Old, Juval Bechar, Markus Müller, Sascha Heußen
+-   **(221) Quantum Graph Neural Networks with Permutation-Equivariant Message Passing** --- Snehal Raj, Brian Coyle, Léo Monbroussou, André Juan Ferreira Martins, Renato Farias M. S., Elham Kashefi
+-   **(225) Simulation of noisy quantum circuits using frame representations** --- Janek Denzler, Jose Carrasco, Jens Eisert, Tommaso Guaita
+-   **(227) On Estimating Quantum Divergences with $p$-Power Means** --- Jinge Bao, Minbo Gao, Qisheng Wang
+-   **(231) Towards Efficient Quantum Thermal State Preparation via Local Driving: Lindbladian Simulation with Provable Guarantees** --- Dominik Hahn, S. A. Parameswaran, Benedikt Placke
+-   **(237) Accelerated quantum ground state projection using the wall-Chebyshev expansion** --- Maria-Andreea Filip, Nathan Fitzpatrick
+-   **(239) Ladder Operator Block-Encoding** --- Carter M. Gustin, William A. Simon, Kamil Serafin, Alexis Ralli, Gary R. Goldstein, Peter J. Love
+-   **(241) A Bravyi-König theorem for Floquet codes generated by locally conjugate stabiliser groups** --- Jelena Mackeprang, Jonas Helsen
+-   **(245) Flag at origin: a modular fault-tolerant preparation for CSS codes** --- Diego Forlivesi, David Amaro
+-   **(248) Prospects for quantum advantage in machine learning from the representability of functions** --- Sergi Masot-Llima, Elies Gil-Fuster, Carlos Bravo-Prieto, Jens Eisert, Tommaso Guaita
+-   **(258) Fast convergence of Majorana Propagation for weakly interacting fermions** --- Giorgio Facelli, Hamza Fawzi, Omar Fawzi
+-   **(261) Quantum lattice Boltzmann method for several time steps: A local Carleman linearization algorithm** --- Antonio David Bastida Zamora, Ljubomir Budinski, Valtteri Lahtinen, Pierre Sagaut
+-   **(262) Entanglement boosting: low-volume and high-yield logical entanglement generation** --- Shinichi Sunami, Yutaka Hirano, Toshihide Hinokuma, Hayata Yamasaki
+-   **(274) Multi-Controlled Quantum Gates in Linear Nearest Neighbor** --- Ben Zindorf, Sougato Bose
+-   **(276) A Solovay-Kitaev theorem for quantum signal processing** --- Zane Rossi
+-   **(290) Quantum chemistry using quantum linear solvers: extension to strong correlation regimes and prospects of polynomial advantag** --- Peniel Tsemo, Ishita Bhattacharjee, Kenji Sugisaki, Andreas Koehn, Debashis Mukherjee, V. S. Prasannaa
+-   **(301) Quantum Advantage in Resource Estimation** --- William Simon, Peter J. Love
+-   **(308) Energy-independent tomography of Gaussian states** --- Lennart Bittel, Francesco Anna Mele, Jens Eisert, Antonio Anna Mele
+-   **(311) Leveraging Symmetries in Pauli Propagation** --- Yanting Teng, Su Yeon Chang, Manuel S. Rudolph, Zoë Holmes
+-   **(313) Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes** --- Alison Warman, Sakura Schafer-Nameki
+-   **(314) Faster Quantum Algorithm for Multiple Observables Estimation** --- Yuki Koizumi, Kaito Wada, Wataru Mizukami, Nobuyuki Yoshioka
+-   **(317) Temporal quantum interference in many-body programmable Rydberg atom arrays** --- Madhumita Sarkar, Ben Zindorf, Bhaskar Mukherjee, Sougato Bose, Roopayan Ghosh
+-   **(318) Quantum Elastic Network Models and their Application to Graphene** --- Ioannis Kolotouros, Adithya Sireesh, Stuart Ferguson, Sean Thrasher, Petros Wallden, Julien Michel
+-   **(325) Quantum-enhanced Markov Chain Monte Carlo for Combinatorial Optimization** --- Kate Marshall, Christa Zoufal, Stefan Woerner
+-   **(335) How much can we learn from quantum random circuit sampling?** --- Tudor Manole, Daniel K. Mark, Wenjie Gong, Bingtian Ye, Yury Polyanskiy, Soonwon Choi
+-   **(339) Entanglement-assisted circuit knitting: distributed quantum computing using limited entanglement resources** --- ShaoHua Hu, Po-Sung Liu, Jun-Yi Wu
+-   **(340) Trainability of Parameterised Linear Combinations of Unitaries** --- Nikhil Khatri, Gabriel Matos, Stefan Zohren
+-   **(343) A resource-efficient quantum-walker Quantum RAM** --- Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis
+-   **(344) Error-mitigation aware benchmarking strategy for quantum optimization problems** --- Pauline Besserve, Marine Demarty, Bo Yang, Kenza Hammam
+-   **(346) Efficient Quantum Laplace Transforms: A New Primitive for Quantum Algorithms** --- Julien Zylberman
+-   **(348) Native linear-optical protocol for efficient multivariate trace estimation** --- Leonardo Novo, Marco Robbio, Ernesto F. Galvão, Nicolas J. Cerf
+-   **(354) Lindbladian Simulation with Logarithmic Precision Scaling via Two Ancillae** --- Wenjun Yu, Xiaogang Li, Qi Zhao, Xiao Yuan
+-   **(361) Distance-Preserving Unitary Encoding of Pauli States in Surface Codes** --- Luis Colmenarez, Florian Marquardt, Remmy Zen, Jan Olle, Markus Müller
+-   **(362) Fast Quantum Many Body State Synthesis** --- Prashasti Tiwari, Sougato Bose, Dylan Lewis
+-   **(368) Quantum block Krylov subspace projector: a quantum algorithm for computing low-lying eigenenergies of molecules and materials** --- Maria Gabriela Jordao Oliveira, Nina Glaser
+-   **(370) Improving time dynamics simulation by sampling the error unitary** --- Raul Santos Sanhueza, Lana Mineh, Adrian Chapman
+-   **(374) Efficient certification of intractable quantum states with few Pauli measurements** --- Sami Abdul Sater, Maxime Garnier, Thierry Martinez, Harold Ollivier, Ulysse Chabaud
+-   **(380) A competitive NISQ and qubit-efficient solver for the LABS problem** --- Marco Sciorilli, Giancarlo Camilo, Thiago O. Maciel, Lucas Borges, Askery Canabarro, Leandro Aolita
+-   **(381) Bridging the Application-Hardware Gap: Domain-Specific Cross-Layer Optimization for Feature Selection on IBM Hardware** --- Mariesa H. Teo, Dhirpal Shah, Simon Martiel, Zachary Morrell, Tina Oberoi, Sarang Joshi, Ryan Robinett, Ali Javadi-Abhari, Kevin J. Sung, Nate Earnest-Noble, Richard R. Allen, Siddhi Ramesh, Dhanvi Bharadwaj, Kairui Zhou, Bharath Thotakura, Colin Campbell, Gokul Subramian Ravi, Aram W. Harrow, Alexander T. Pearson, Samantha J. Riesenfeld, Frederic T. Chong, Teague Tomesh
+-   **(385) Robust Lindbladian Estimation for Quantum Dynamics** --- Yinchen Liu, James R. Seddon, Tamara Kohler, Emilio Onorati, Toby Cubitt
+-   **(416) Variational Learning with Long-Entangling Gates** --- Helene M. Lösl, Aydin Deger, Andrew J. Daley
+-   **(419) Optimised Fermion-Qubit Encodings for Quantum Simulation with Reduced Circuit Depth** --- Michael Williams De La Bastida, Thomas M. Bickley, Peter V. Coveney
+-   **(425) A quantum generative learning model using distinguishable expectation values** --- Olli Hirviniemi, Afrad Basheer, Thomas Cope
+-   **(432) Quantum embedding of graphs for subgraph counting** --- Bibhas Adhikari
+-   **(437) Quantum machine learning advantages beyond hardness of evaluation** --- Riccardo Molteni, Simon Marshall, Vedran Dunjko
+-   **(442) A Multilevel Framework for Partitioning Quantum Circuits** --- Felix Burt, Kuan-Cheng Chen, Kin K. Leung
+-   **(462) Learning mixed quantum states in large-scale experiments** --- Matteo Votto, Marko Ljubotina, Cécilia Lancien, J. Ignacio Cirac, Peter Zoller, Maksym Serbyn, Lorenzo Piroli, Benoît Vermersch
+-   **(465) Error mitigation for logical circuits using decoder confidence** --- Maria Dinca, Tim Chan, Simon Benjamin
+-   **(479) Quantum Counting in the Rydberg Blockade** --- Joseph Gibson, Victor Drouin-Touchette, Stefanos Kourtis
+-   **(487) Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits** --- Erik Weilandt, Tom Peham, Robert Wille
+-   **(500) In the shadow of the Hadamard test: Using the garbage state for good and further modifications** --- Paul K. Faehrmann, Jens Eisert, Richard Kueng
+-   **(514) Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays** --- Javier Oliva del Moral, Olatz Sanz Larrarte, Joana Fraxanet, Reza Dastbasteh, Dmytro Mishagli, Sergiy Zhuk, Josu Etxezarreta Martinez
+-   **(540) Quantum Error Correction on Error-mitigated Physical Qubits** --- Minjun Jeon, Zhenyu Cai
+-   **(543) QuIC: Quantum-Inspired Compound Adapters for Parameter Efficient Fine-Tuning** --- Snehal Raj, Brian Coyle
+-   **(556) Lindblad engineering for quantum Gibbs state preparation under the eigenstate thermalization hypothesis** --- Eric Brunner, Luuk Coopmans, Gabriel Matos, Matthias Rosenkranz, Frederic Sauvage, Yuta Kikuchi
+-   **(592) On a Quantum Runtime Advantage for all Computation** --- Mischa Woods
+-   **(619) Trade-offs Between Chemical Accuracy and Algorithmic Resources in Transcorrelated Quantum Chemistry** --- Cheng-Lin Hong, Emiel Koridon, Paul Faehrmann, Stefano Polla, Werner Dobrautz
+-   **(3) Global vs Local encodings for Distributed Quantum Computing** --- Maria Gragera Garces
+-   **(4) A 2d×d×d Spacetime Volume Implementation of a Logical S Gate in the Surface Code** --- Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki
+-   **(9) Quantum origami: High-rate quantum memory with addressable logic on Quantinuum ion trap processors** --- Elijah Durso-Sabina, Esha Swaroop, Natalie Brown, David Stephen, Andrew Potter
+-   **(10) Bias-tailored Time-dynamic Bacon-Shor codes** --- Esha Swaroop, Fernando Pastawski, Joe Iverson
+-   **(11) Double-Bracket Algorithmic Cooling** --- Mohammed Alghadeer, Khanh Uyen Giang, Shuxiang Cao, Simone D. Fasciati, Michele Piscitelli, Nelly Ng, Peter J. Leek, Marek Gluza, Mustafa Bakr
+-   **(13) Quantum Simulations of Chemistry in First Quantization with any Basis Set** --- Timothy N. Georges, Marius Bothe, Christoph Sünderhauf, Bjorn K. Berntson, Róbert Izsák, Aleksei V. Ivanov
+-   **(14) Gate Teleportation vs Circuit Cutting in Distributed Quantum Computing** --- Daniel Dilley, Shobhit Gupta, Nikolay Sheshko, Alvin Gonzales, Manish K. Singh, Zain Saleem
+-   **(16) Unlocking early fault-tolerant quantum computing with mitigated magic dilution** --- Surabhi Luthra, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell
+-   **(20) A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network** --- Dean Brand, Francesco Petruccione
+-   **(21) Reducing measurement error with adaptivity** --- James Byrne, Noah Linden, Paul Skrzypczyk
+-   **(22) Quantum signal processing for non-Hermitian matrices** --- Xabier Gutiérrez, Lorenzo Laneve, Mikel Sanz
+-   **(23) Fault-Tolerant Quantum Simulation of Pariser–Parr–Pople (PPP) models** --- Mathias Mikkelsen, Andreas Juul Bay-Smidt, Marcel David Fabian, Srushti Patil, Karim Essafi, Ronin Wu, Gemma Solomon
+-   **(24) Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties** --- Kasturi Ranjan Swain, Rajesh K. Malla, Adolfo del Campo
+-   **(25) Stratification for Quasi-Probability Decomposition Methods** --- Joshua Dai
+-   **(27) Quantum Computing with Carbon Nanotubes via Quantum Cellular Automata: Quantum Walks, Variational Algorithms and (1+1)-QED Simulation** --- Andrea Mammola, Quentin Schaeverbeke, Giuseppe Di Molfetta
+-   **(29) Quantum error correction via purification using a single auxiliary** --- Chandrima Pushpan, Tanoy Kanti Konar, Aditi Sen De, Amit Kumar Pal
+-   **(31) Circuit Randomization: Optimization Strategies and Performance Benchmarks** --- Alessio Calzona
+-   **(33) Molecular Ansatz with Quantum Monte Carlo Pre-Screened Givens Rotations** --- Lila Cadi Tazi, Eline Welling, Alex J.W. Thom, Maria-Andreea Filip
+-   **(34) Fermionic Insights into Measurement-Based Quantum Computation: Circle Graph States Are Not Universal Resources** --- Brent Harrison, Vishnu Iyer, Ojas Parekh, Kevin Thompson, Andrew Zhao
+-   **(36) QuSquare: Scalable Quality-Oriented Benchmark Suite for Pre-Fault-Tolerant Quantum Devices** --- David Aguirre, Ruben Peña, Mikel Sanz
+-   **(38) Beyond Hong-Ou-Mandel characterization of multiple single photons** --- Stefan van den Hoven, Malaquias Correa Anguita, Sara Marzban, Jelmer Renema
+-   **(40) A Monte Carlo approach to bound Trotter error** --- Nick S. Blunt, Aleksei V. Ivanov, Andreas Juul Bay-Smidt
+-   **(43) Quantum Error-Corrected Computation of Molecular Energies** --- Kentaro Yamamoto, Yuta Kikuchi, Natalie Brown, David Muñoz Ramo, David Amaro
+-   **(45) Practical ansatz-free Lindbladian learning** --- Petr Ivashkov, Nikita Romanov, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin
+-   **(46) Measurement-Relative Circuit Reduction from Stabilizer Constraints** --- Rajarsi Pal, Harold Ollivier
+-   **(48) Characterizing time-dependent noise with compressed sensing** --- Raphael Brieger, Amin Hosseinkhani
+-   **(49) Decoding with alternating weighted graph sparsification for quantum low-density parity-check codes** --- Josu Etxezarreta Martinez, Reza Dastbasteh, Ruben Otxoa
+-   **(50) Scaling Up Gate Set Tomography: Efficient 4-Qubit Characterisation on Real Quantum Hardware** --- Emiliano Godinez-Ramirez, Raphael Brieger, Martin Kliesch
+-   **(51) Minimizing CZ gate count for preparation of graph states** --- Hemant Sharma, Adam Burchardt, Kenneth Goodenough, Jonas Helsen
+-   **(52) Direct Energy Gap Calculations in Heisenberg Spin Systems Using Superconducting Quantum Devices** --- Boni Paul, Sudhindu Bikash Mandal, Dr. Kenji Sugisaki, Prof. Bhanu Pratap Das
+-   **(54) Early fault-tolerant resource estimation for ground-state preparation via Lindblad simulation** --- Marius Bothe, Nick Blunt
+-   **(55) Decomposing diagonal multi-qudit gates** --- Daniele Trisciani, Samuel Whaite, Zoltan Zimboras
+-   **(57) Can Quantum Computing Accelerate Artificial Intelligence** --- Palak Shah
+-   **(60) Circuit optimization of informationally complete positive operator–valued qubit measurements** --- Zhou You, Qing Liu, You Zhou
+-   **(63) Algorithmic Impact of Near-Term Error Correction on Iterative Quantum Phase Estimation under Circuit-Level Noise** --- Leon C. Sander, Dustin Seboldt, Michael J. Hartmann
+-   **(65) First-Quantised Electron Scattering Simulations on Trapped-Ion Quantum Hardware** --- Chiara Leadbeater, Nathan Fitzpatrick, David Muñoz Ramo, Alex J. W. Thom
+-   **(66) Entanglement is not sufficient for most practical entanglement-based QKD protocols** --- SHUBHAYAN SARKAR, Tushita Prasad, Karol Horodecki
+-   **(67) Tensor Network Born Machines: Measurement-Driven Generative Model for Quantum Data** --- Mattia Robbiano, Stefano Mangini, Michele Grossi
+-   **(70) Simulating Quantum Walk Hamiltonians without Pauli Decomposition** --- Mostafa Atallah, Alvin Gonzales, Daniel Dilley, Igor Gaidai, Zain H. Saleem, Rebekah Herrman
+-   **(72) Optimal cutting of bosonic circuit** --- Shao-Hua Hu, Jun-Yi Wu, Ray-Kuang Lee
+-   **(73) Quantum Algorithms for Approximate Graph Isomorphism Testing** --- Prateek P. Kulkarni
+-   **(74) Mapping Rotated Surface Codes to 3 × N railway** --- Arun John Moncy, Reza Dastbasteh, Josu Etxezarreta Martinez, Ruben Otxoa de Zuazola
+-   **(75) Green’s function quantum impurity solvers on neutral-atom arrays with realistic noise** --- Janik Kramer, Piero Naldesi, Andreas Kruckenhauser
+-   **(76) Randomised measurements of a disorder-induced entanglement transition in a neutral atom quantum processor** --- Oscar Scholin, Apollonas S. Matsoukas-Roubeas, Lucas Sá, Alexei Bylinskii, Andrew Daley, Dorian Gangloff
+-   **(79) Quantum-inspired classical simulation through randomized time evolution** --- Fredrik Hasselgren, Balint Koczor
+-   **(80) Joint Input-Parameter Harmonic Representations of Quantum Fourier Models** --- Kyle James Stuart Campbell, Luigi Del Debbio, Petros Wallden
+-   **(81) Decoding bivariate bicycle codes using symmetries** --- Kaavya Sahay, Dominic J. Williamson, Benjamin J. Brown
+-   **(82) A Shadow Enhanced Greedy Quantum Eigensolver** --- Jona Erle, Balint Koczor
+-   **(84) Quantum Models for Multi-Stage Compositional Concept Generalization** --- Mina Abbaszadeh, Matilda Karabina Moore, Mehrnoosh Sadrzadeh, Martha Lewis
+-   **(85) Quantum Simulation with Gauge Symmetries: From Error Mitigation to Error Correction** --- Julius Mildenberger, Luca Spagnoli, Philipp Hauke, Alessandro Roggero
+-   **(87) Magic States with the Gottesman-Kitaev-Preskill Code** --- Sharon David, Francesco Arzani, Jack Davis, Ulysse Chabaud
+-   **(88) Exploring Trainability of Quantum Fourier Models via Data-Tailored Encoding Schemes** --- Felix Paul, Björn Minneker, Peter Jung
+-   **(89) Quantum fanout and GHZ states using isotropic spin-exchange interactions** --- Stephen Fenner, Rabins Wosti
+-   **(90) Bayesian Optimization for Quantum Error-Correcting Code Discovery** --- Yihua Chengyu, Richard Meister, Conor Carty, Sheng-Ku Lin, Roberto Bondesan
+-   **(91) Parallelization of Dissipative Quantum Algorithms** --- Sudatta Hor, Yongshan Ding
+-   **(92) Benchmarking Tools for Qudit Codes** --- Eleanor Kneip
+-   **(93) Robust Classical Shadows via Shadow-Aware M-Estimation** --- Ethan Feldman
+-   **(94) qpe-toolbox: Tensor Network Simulation of Quantum Phase Estimation** --- Thibaud Louvet, Carlos Ramos Marimón, Olivier Gauthé, Benoît Vermersch
+-   **(95) Distant Bell State via Measured Spin Chain Dynamics** --- Ralph Jason Costales, Sougato Bose
+-   **(96) Channel Testing Under a Depolarizing Promise** --- Hirak Ghosh, Andrew Jackson, Animesh Datta
+-   **(99) Barren Explanations: A No-Go Theorem for Explainable Universal Quantum Classifiers** --- Sharvil Saxena
+-   **(100) Local Gate Scheduling as a Continuous Quantum Optimal Control Problem** --- Jake Muff, Francesco Cosco
+-   **(101) QuLIP: A Compositional Variational Quantum Encoder for Vision-Language Understanding** --- Tilen Limback-Stokin, Tanishka Birdavade, Kin Ian Lo, Mehrnoosh Sadrzadeh
+-   **(102) Stoquastic permutationally invariant Bell operators** --- Jan Li, Owidiusz Makuta, Evert van Nieuwenburg, Jordi Tura
+-   **(104) Learning with Optimized Random Feature: Quantum-Inspired Classical Sampling without Sparsity and Low-Rank Assumptions** --- Natsuto Isogai, Hayata Yamasaki, Mio Murao
+-   **(105) Quantum Algorithm for the Vlasov-Maxwell System** --- Matthew Christensen, Tom Goffrey, Animesh Datta
+-   **(106) SDP Hierarchies for Quantum Spin Systems** --- Ali Almasi, Peter Brown, Dávid Bugár, Cambyse Rouzé
+-   **(107) Hermitian Matrix Product Operators on Quantum Computers** --- Naivasha Williams, Prof. Andrew Green
+-   **(108) Parameterised graph theory for tensor networks: rerouting entanglement, simplifying structure, and tomography** --- Natalie McHugh, Matthias C. Caro, Sergii Strelchuk
+-   **(109) The HHL algorith, with qutrits.** --- Tushti Patel, V.S. Prasannaa
+-   **(112) Accurate ground state energy estimation with noise and imperfect state preparation** --- Alicja Dutkiewicz, Thomas E. O'Brien, Stefano Polla
+-   **(113) Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** --- Kin Ian Lo, Tilen Limback-Stokin, Theodor Iosif, Yidong Liao
+-   **(114) GPT on a Quantum Computer** --- Yidong Liao, Chris Ferrie
+-   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
+-   **(117) RASCqL: \underline{R}eaction-limited \underline{A}rchitecture for \underline{S}IMD \underline{C}omplex \underline{q}LDPC \underline{L}ogic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
+-   **(118) Quantum Algorithm for Filtering Eigenvectors** --- Aashna Zade, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
