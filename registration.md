@@ -125,5 +125,7 @@ still need to get in touch with us at <qctip2026@cs.ox.ac.uk> in case they need 
 - QCTiP ticket ID (Order Number)
 - Institution
 - City and country of institution
+- Passport number
+- Date of birth
 
 
