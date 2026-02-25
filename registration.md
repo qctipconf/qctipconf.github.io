@@ -39,7 +39,8 @@ which will take place in the evening of the 21st April (conference dates are 20-
 However, we request participants to sign up only if they know they will be able to attend. 
 
 
-- **Early-Bird Student Registration Fee: &#163;200**
+- (sold out) ~~**Early-Bird Student Registration Fee: &#163;200**~~
+- **Regular Rate Student Registration Fee: &#163;250**
 - **Early-Bird Staff Registration Fee: &#163;300**
 
 Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
