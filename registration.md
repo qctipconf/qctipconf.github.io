@@ -29,7 +29,7 @@ we will switch to regular rate tickets earlier.
 
 
 Furthermore, the number of student tickets
-has been limited -- if all student tickets sell out, please purchase regular rate tickets.
+has been limited -- if all regular rate student tickets sell out, please purchase regular rate staff tickets.
 Only those participants are eligible to purchase student tickets who study for a degree but
 have not yet received a doctorate.
 
