@@ -291,5 +291,5 @@ The below list is not final and subject to confirmation by presenting authors.
 -   **(113) Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** --- Kin Ian Lo, Tilen Limback-Stokin, Theodor Iosif, Yidong Liao
 -   **(114) GPT on a Quantum Computer** --- Yidong Liao, Chris Ferrie
 -   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
--   **(117) RASCqL: \underline{R}eaction-limited \underline{A}rchitecture for \underline{S}IMD \underline{C}omplex \underline{q}LDPC \underline{L}ogic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
+-   **(117) RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 -   **(118) Quantum Algorithm for Filtering Eigenvectors** --- Aashna Zade, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
