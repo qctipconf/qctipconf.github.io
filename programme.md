@@ -20,7 +20,7 @@ A detailed conference schedule will be announced closer to the event date.
 
 
 ### Accepted Contributed Talks
-The below list is not the final programme and subject to confirmation by presenting authors. 
+The below list is not the final programme and subject to confirmation by presenting authors. The length of contributed talks is 30 mins (including questions).
 
 - **(#14) Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware** --- Gyorgy Geher, David Byfield, Archibald Ruban
 - **(#31) A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer** --- Karthik Seetharam, Matteo Lostaglio, Burak Sahinoglu, Sam Pallister, Felipe Jornada
