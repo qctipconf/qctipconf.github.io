@@ -288,7 +288,7 @@ The below list is not final and subject to confirmation by presenting authors.
 -   **(108) Parameterised graph theory for tensor networks: rerouting entanglement, simplifying structure, and tomography** --- Natalie McHugh, Matthias C. Caro, Sergii Strelchuk
 -   **(109) The HHL algorith, with qutrits.** --- Tushti Patel, V.S. Prasannaa
 -   **(112) Accurate ground state energy estimation with noise and imperfect state preparation** --- Alicja Dutkiewicz, Thomas E. O'Brien, Stefano Polla
--   **(113) Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** --- Kin Ian Lo, Tilen Limback-Stokin, Theodor Iosif, Yidong Liao
+-   **(113) Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** --- Paul San Sebastian, Tilen Limback-Stokin, Kin Ian Lo, Theodor Iosif, Yidong Liao
 -   **(114) GPT on a Quantum Computer** --- Yidong Liao, Chris Ferrie
 -   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
 -   **(117) RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
