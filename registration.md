@@ -99,7 +99,7 @@ by clicking on the link below (or by choosing "Group Rate" and providing the cod
 [**Book a room**](https://www.ihg.com/hotels/gb/en/find-hotels/select-roomrate?qDest=Oxford, United Kingdom&qPt=CASH&qCiD=19&qCoD=23&qCiMy=032026&qCoMy=032026&qAdlt=1&qChld=0&qRms=1&qAAR=6CBARC&qGrpCd=GV3&qSlH=OFDUK&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.kd.ma.sp.va.re.vx.nd.sx.we.lx.rn.sn.nu.ge&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qErm=false&qpMn=1&qRmFltr=)
 
 Dates available are 19th April (check in) - 23rd April (check out).
-Please note that the **minimum stay lenght is 3 days and that the rooms are only held until 5th March 2026**,
+<span style="color:red;">[**deadline has been extended**]</span> Please note that the **minimum stay lenght is 3 days and that the rooms are only held until 12th March 2026**,
 and therefore bookings must be made before this date.
 
 The conference venue is conveniently
