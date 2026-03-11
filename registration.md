@@ -124,6 +124,7 @@ still need to get in touch with us at <qctip2026@cs.ox.ac.uk> in case they need 
 
 **When requesting a visa invitation letter, please include the following in your email**.
 - Name
+- Email address (to which the invitation is to be sent)
 - QCTiP ticket ID (Order Number)
 - Institution
 - City and country of institution
