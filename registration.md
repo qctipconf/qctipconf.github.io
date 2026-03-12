@@ -40,7 +40,7 @@ However, we request participants to sign up only if they know they will be able 
 
 
 - (sold out) ~~**Early-Bird Student Registration Fee: &#163;200**~~
-- **Regular Rate Student Registration Fee: &#163;250**
+- (sold out) ~~**Regular Rate Student Registration Fee: &#163;250**~~
 - (sold out) ~~**Early-Bird Staff Registration Fee: &#163;300**~~
 - **General Admission Ticket: &#163;400**
 
