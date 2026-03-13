@@ -490,3 +490,8 @@ The below list is not final and subject to confirmation by presenting authors.
 -   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
 -   **(117) RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 -   **(118) Quantum Algorithm for Filtering Eigenvectors** --- Aashna Zade, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
+
+# Acknowledgements
+Many thanks to Viet Tran (Johannes Kepler University Linz, Austria),
+Po-Wei Huang and Abhishek Rajput (University of Oxford) for their help in managing
+submissions and scheduling the scientific programme.
