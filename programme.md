@@ -103,7 +103,7 @@ Presenting authors are _<u>underlined</u>_.
 
 - **Rapid Mixing of Quantum Gibbs Samplers for Weakly-Interacting Quantum Systems** — _<u>Štěpán Šmíd</u>_, Richard Meister, Mario Berta, Roberto Bondesan
 
-### Compilation
+### Compilation and Resource Estimation
 
 - **Characterizing Space Requirements for Quantum Computations via Signaling Conditions** — _<u>Kosuke Matsui</u>_, Jun-Yi Wu, Hayata Yamasaki, Min-Hsiu Hsieh, Mio Murao
 
