@@ -22,7 +22,7 @@ A detailed conference schedule will be announced closer to the event date.
 Click on the relevant section to jump to the list of talks.
 
 |                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
-|:-------------------------:|:-----------------------------------------:|:------------------------------------------:|
+|:-------------:|:-----------------------------------------:|:------------------------------------------:|
 | Monday <br> 11:00–12:30       | [Algorithms I -- Optimization](#algorithms-i--optimization) | [QEC I -- Decoders](#qec-i--decoders) |
 | Monday <br> 13:30–15:00       | [Algorithms II -- Quantum Chemistry](#algorithms-ii--quantum-chemistry) | [Testing and Verification](#testing-and-verification) |
 | Monday <br> 15:30–17:00       | [Learning I](#learning-i) | [Algorithms III -- General](#algorithms-iii--general) |
@@ -37,7 +37,7 @@ Click on the relevant section to jump to the list of talks.
 
 # List of Contributed Talks
 
-The presenting author is _<u>underlined</u>_.
+Presenting authors are _<u>underlined</u>_.
 
 ### Algorithms I -- Optimization
 
