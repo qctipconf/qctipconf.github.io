@@ -203,7 +203,7 @@ Presenting authors are _<u>underlined</u>_.
 
 
 
-### QEC IV - qLDPC Codes
+### QEC IV -- qLDPC Codes
 
 - **Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware** — _<u>Gyorgy Geher</u>_, David Byfield, Archibald Ruban
 
