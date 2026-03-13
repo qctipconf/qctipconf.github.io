@@ -18,8 +18,8 @@ A detailed conference schedule will be announced closer to the event date.
 
 
 
-# Parallel Sections Timetable
-Click on the relevant section to jump to the list of talks.
+# Parallel Sessions Timetable
+Click on the relevant session to jump to the list of talks.
 
 |                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
 |:-------------:|:-----------------------------------------:|:------------------------------------------:|
