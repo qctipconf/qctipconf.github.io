@@ -42,9 +42,11 @@ However, we request participants to sign up only if they know they will be able 
 - (sold out) ~~**Early-Bird Student Registration Fee: &#163;200**~~
 - (sold out) ~~**Regular Rate Student Registration Fee: &#163;250**~~
 - (sold out) ~~**Early-Bird Staff Registration Fee: &#163;300**~~
-- **General Admission Ticket: &#163;400**
+- (sold out) ~~**General Admission Ticket: &#163;400**~~
 
 Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
+
+<span style="color:red;">**We sold out all tickets for the event. Please sign up to our wating list to receive notification when a ticket becomes available [[HERE]](https://docs.google.com/forms/d/e/1FAIpQLScJp4S1H86eBJhWp4Lpw4y1kx0ltHKU9kpWkMTjuzg2f68MLw/viewform?usp=publish-editor).**</span>
 
 ### Travel and Financial Support
 
