@@ -46,7 +46,7 @@ However, we request participants to sign up only if they know they will be able 
 
 Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
 
-<span style="color:red;">**All tickets for the event have been sold. Please sign up to our wating list to receive notification when a ticket becomes available [[HERE]](https://docs.google.com/forms/d/e/1FAIpQLScJp4S1H86eBJhWp4Lpw4y1kx0ltHKU9kpWkMTjuzg2f68MLw/viewform?usp=publish-editor).**</span>
+<span style="color:red;">**All tickets for the event have been sold. Please sign up to our waiting list to receive notification when a ticket becomes available [[HERE]](https://docs.google.com/forms/d/e/1FAIpQLScJp4S1H86eBJhWp4Lpw4y1kx0ltHKU9kpWkMTjuzg2f68MLw/viewform?usp=publish-editor).**</span>
 
 ### Travel and Financial Support
 
