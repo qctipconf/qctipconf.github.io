@@ -105,7 +105,7 @@ Dates available are 19th April (check in) - 23rd April (check out).
 and therefore bookings must be made before this date.
 
 The conference venue is conveniently
-accessible via a 10-min bus trip from the [Pear Tree Park and Ride](https://maps.app.goo.gl/p32tLLjf7Vrv8pEe9) bus station.
+accessible via a 10-min (or 15 min depending on traffic) bus trip from the [Pear Tree Park and Ride](https://maps.app.goo.gl/p32tLLjf7Vrv8pEe9) bus station.
 Participants should take bus number 300 which stops immediately in front
 of the Andrew Wiles Building (name of the bus stop is Radcliffe Observatory Quarter).
 
