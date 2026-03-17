@@ -114,7 +114,20 @@ of the Andrew Wiles Building (name of the bus stop is Radcliffe Observatory Quar
 
 ## Recommended Hotels
 
-A list of recommended hotels will be made available here closer to the conference dates.
+As the conference approaches, accommodation in the area is very likely to become limited.
+While the above allocations at St Anne's College and the Holiday Inn Oxford Pear Tree
+have booked out, there are a number of hotels within reach of the venue.
+Participants may wish to explore options via the following platforms:
+
+[https://www.booking.com](https://www.booking.com)
+
+[https://www.hotels.com](https://www.hotels.com)
+
+[https://www.airbnb.com](https://www.airbnb.com)
+
+Hotels located close to the venue can also be found by searching the venue location
+on these platforms. Early booking is recommended due to high demand during the conference period, 
+please see "Important notice" above.
 
 
 # Visa Information
