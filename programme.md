@@ -37,7 +37,13 @@ Click on the relevant session to jump to the list of talks.
 
 # List of Contributed Talks
 
-Presenting authors are _<u>underlined</u>_.
+<details markdown="1">
+<summary><strong>Click HERE to open or close the list of contributed talks</strong>.</summary> 
+
+Names of presenting authors have been _<u>underlined</u>_.
+
+
+
 
 ### Algorithms I -- Optimization
 
@@ -211,6 +217,10 @@ Presenting authors are _<u>underlined</u>_.
 
 - **Computing Efficiently in QLDPC Codes** — _<u>Alexander Malcolm</u>_, Andrew Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda Quintavalle, Stefanie Beale, Nichola Lee-Hone, Stephanie Simmons
 
+</details>
+
+
+
 
 <!--- 
 
@@ -277,6 +287,11 @@ Presenting authors are _<u>underlined</u>_.
 
 
 # Accepted Poster Presentations
+
+
+<details markdown="1">
+<summary><strong>Click HERE to open or close the list of accepted poster presentations</strong>.</summary> 
+
 The below list is not final and subject to confirmation by presenting authors. 
 
 
@@ -490,6 +505,8 @@ The below list is not final and subject to confirmation by presenting authors.
 -   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
 -   **(117) RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 -   **(118) Quantum Algorithm for Filtering Eigenvectors** --- Aashna Zade, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
+
+</details>
 
 # Acknowledgements
 Many thanks to Viet Tran (Johannes Kepler University Linz, Austria),
