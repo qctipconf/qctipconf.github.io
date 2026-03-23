@@ -16,7 +16,7 @@ title: Programme
 <iframe src="./Schedule.pdf" width="100%" height="600px"></iframe>
 </details>
 
-Alternatively, the PDF of the programme can be downloaded by clicking [Here](./Schedule.pdf).
+Alternatively, a PDF of the schedule can be downloaded by clicking [Here](./Schedule.pdf).
 
 # Parallel Sessions Timetable
 Click on the relevant session to jump to the list of talks.
