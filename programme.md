@@ -38,7 +38,7 @@ Click on the relevant session to jump to the list of talks.
 # List of Contributed Talks
 
 <details markdown="1">
-<summary><strong>Click HERE to open or close the list of contributed talks</strong>.</summary> 
+<summary><strong>Click here</strong> to open or close the list of contributed talks.</summary> 
 
 Names of presenting authors have been _<u>underlined</u>_.
 
@@ -290,7 +290,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 
 <details markdown="1">
-<summary><strong>Click HERE to open or close the list of accepted poster presentations</strong>.</summary> 
+<summary><strong>Click here</strong> to open or close the list of accepted poster presentations.</summary> 
 
 ### Applications of Quantum Computing & Domain Specific Algorithms
 - **A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional** — _<u>Martin Joseph Uttendorfer</u>_, Daniel Barragan-Yani, Matthias Sperl, Marc Landmann
