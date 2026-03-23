@@ -11,12 +11,12 @@ title: Programme
 
 # Schedule
 
-The final schedule will be made available here closer to the conference dates.
-Please note that it is recommended that participants book accommodation for 19th April as the conference programme starts 
-at 9:30am on 20th April. The conference programme will end at 5pm on the 22nd April. 
-A detailed conference schedule will be announced closer to the event date.
+<details markdown="1">
+<summary><strong>Click here</strong> to open the detailed schedule of the conference progamme in the browser.</summary> 
+<iframe src="./Schedule.pdf" width="100%" height="600px"></iframe>
+</details>
 
-
+Alternatively, the PDF of the programme can be downloaded by clicking [Here](./Schedule.pdf).
 
 # Parallel Sessions Timetable
 Click on the relevant session to jump to the list of talks.
@@ -441,6 +441,7 @@ low-density parity-check codes** — _<u>Josu Etxezarreta Martinez</u>_, Reza Da
 - **Quantum synchronisation errors: An insertion-deletion equivalence and near-term error correction protocol** — _<u>Lewis Bulled</u>_, Yingkai Ouyang
 - **RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** — _<u>Willers Yang</u>_, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 - **Scalable decoding protocols for fast transversal logic in the surface code** — _<u>Mark L. Turner</u>_, Earl T. Campbell, Ophelia Crawford, Neil I. Gillespie, Joan Camps
+- **Fair Baselines and True Thresholds for Bivariate Bicycle Codes** — _<u>Tushar Pandey</u>_
 
 ### Quantum Simulation (Digital & Analog)
 - **Beyond Born-Oppenheimer: Nonequilibrium Electron-Nuclear Dynamics on Quantum Computers** — _<u>Arta Schellhorn</u>_, Juliane Heitkämper, Alejandro Somoza, Birger Horstmann
