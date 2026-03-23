@@ -319,7 +319,7 @@ and extension to strong correlation regimes** — _<u>Peniel Tsemo</u>_, Ishita 
 - **Quantum-enhanced Markov chain Monte Carlo for combinatorial optimization** — _<u>Kate Marshall</u>_, Christa Zoufal, Stefan Woerner
 - **QuLIP: A Variational Quantum Encoder for Vision-Language Understanding** — _<u>Tilen Limback-Stokin</u>_, Tanishka Birdavade, Kin Ian Lo, Mehrnoosh Sadrzadeh
 - **Room-Temperature Quantum Reservoir Computing with NV centers in Diamond: Prospects and Limitations** — _<u>Farida Shagieva</u>_, Samuel Tovey, Stefan Prestel
-- **Solving the Heat Equation with Quantum Linear System Algorithms** — _<u>Matic Petrič</u>_, René Zander
+- **Solving the Heat Equation with Quantum Linear System Algorithms** — _<u>Matic Petrič</u>_, René Zander, Diego Polimeni, Tobias Köppl
 - **Variational quantum algorithms for continuum modelling of batteries** — Albert Pool, _<u>Michael Schelling</u>_, Birger Horstmann
 
 ### Compilation & Circuit Optimization
