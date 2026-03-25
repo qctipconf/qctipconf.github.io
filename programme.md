@@ -442,6 +442,7 @@ low-density parity-check codes** — _<u>Josu Etxezarreta Martinez</u>_, Reza Da
 - **RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** — _<u>Willers Yang</u>_, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 - **Scalable decoding protocols for fast transversal logic in the surface code** — _<u>Mark L. Turner</u>_, Earl T. Campbell, Ophelia Crawford, Neil I. Gillespie, Joan Camps
 - **Fair Baselines and True Thresholds for Bivariate Bicycle Codes** — _<u>Tushar Pandey</u>_
+- **Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes** — _<u>Alison Warman</u>_, Sakura Schafer-Nameki
 
 ### Quantum Simulation (Digital & Analog)
 - **Beyond Born-Oppenheimer: Nonequilibrium Electron-Nuclear Dynamics on Quantum Computers** — _<u>Arta Schellhorn</u>_, Juliane Heitkämper, Alejandro Somoza, Birger Horstmann
@@ -473,7 +474,6 @@ Topologies** — _<u>Fredrik Hasselgren</u>_, Max Al-Hasso, Amy Searle, Joseph T
 - **Stratified Sampling for Quasi-Probability Decompositions** — _<u>Joshua Dai</u>_
 - **The Power of Lie-Algebraic Classical Simulation for Quantum Mean Values** — _<u>Adelina Bärligea</u>_, Jakob S. Kottmann
 - **The Trainer–Encoder Interaction Matrix: A Framework for Analysing Inductive Bias in Quantum Fourier Models** — _<u>Kyle James Stuart Campbell</u>_, Luigi Del Debbio, Petros Wallden
-- **Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes** — _<u>Alison Warman</u>_, Sakura Schafer-Nameki
 - **Variations learning on sparse graphs** — _<u>Helene M. Lösl</u>_, Aydin Deger, Andrew J. Daley
 
 
