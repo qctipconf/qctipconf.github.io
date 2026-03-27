@@ -293,6 +293,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 <summary><strong>Click here</strong> to open or close the list of accepted poster presentations.</summary> 
 
 ### Applications of Quantum Computing & Domain Specific Algorithms
+#### Poster presentations on Monday 20th April 17:00--18:30
+
 - **A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional** — _<u>Martin Joseph Uttendorfer</u>_, Daniel Barragan-Yani, Matthias Sperl, Marc Landmann
 - **A New Era of Biomolecular Simulation: Where Quantum Computing Meets GPU-accelerated Supercomputing** — _<u>Tim Weaving</u>_, Alexis Ralli, Tom Bickley, Angus Mingare, Michael Williams De La Bastida, Peter Coveney
 - **Accelerated quantum ground state projection using the wall-Chebyshev expansion** — _<u>Maria-Andreea Filip</u>_, Nathan Fitzpatrick
@@ -307,6 +309,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Molecular Ansatz with Quantum Monte Carlo Pre-Screened Givens
 Rotations** — _<u>Lila Cadi Tazi</u>_, Eline Welling, Alex J.W. Thom, Maria-Andreea Filip
 - **Native linear-optical protocol for efficient multivariate trace estimation** — _<u>Leonardo Novo</u>_, Marco Robbio, Ernesto F. Galvão, Nicolas J. Cerf
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
 - **Quantum Bayesian Optimization for the Automatic Tuning of Lorenz-96 as a Surrogate Climate Model** — _<u>Paul Johann Christiansen</u>_, Daniel Ohl de Mello, Cedric Brügmann, Steffen Hien, Felix Herbort, Martin Kiffner, Lorenzo Pastori, Veronika Eyring, Mierk Schwabe
 - **Quantum block Krylov algorithm for computing low-lying eigenenergies of molecules and materials** — Maria Gabriela Jordao Oliveira, _<u>Nina Glaser</u>_
 - **Quantum chemistry using quantum linear solvers: prospects of exponential advantage
@@ -323,6 +327,7 @@ and extension to strong correlation regimes** — _<u>Peniel Tsemo</u>_, Ishita 
 - **Variational quantum algorithms for continuum modelling of batteries** — Albert Pool, _<u>Michael Schelling</u>_, Birger Horstmann
 
 ### Compilation & Circuit Optimization
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **Advantage for Discrete Variational Quantum Algorithms** — _<u>Oleksandr Kyriienko</u>_, Chukwudubem Umeano, Zoë Holmes
 - **Circuit Optimization of Qubit IC–POVMs** — _<u>Zhou You</u>_, Qing Liu, You Zhou
 - **Decomposing diagonal multi-qudit gates** — _<u>Daniele Trisciani</u>_, Samuel Whaite, Zoltan Zimboras
@@ -330,6 +335,9 @@ and extension to strong correlation regimes** — _<u>Peniel Tsemo</u>_, Ishita 
 - **Local Gate Scheduling as a Continuous Quantum Optimal Control
 Problem** — _<u>Jake Muff</u>_, Francesco Cosco
 - **Minimizing CZ gate count for preparation of graph states. Unchanged from previous submission** — _<u>Hemant Sharma</u>_, Adam Burchardt, Kenneth Goodenough, Jonas Helsen
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Multi-Controlled Quantum Gates in Linear Nearest Neighbor** — _<u>Ben Zindorf</u>_, Sougato Bose
 - **Multilevel Quantum Circuit Partitioning** — _<u>Felix Burt</u>_, Kuan-Cheng Chen, Kin K. Leung
 - **Optimal Haar random fermionic linear optics circuits** — Paolo Braccia, N. L. Diaz, Martin Larocca, M. Cerezo, _<u>Diego Garcia Martin</u>_
@@ -337,6 +345,7 @@ Problem** — _<u>Jake Muff</u>_, Francesco Cosco
 - **Quantum Advantage in Resource Estimation** — _<u>William Simon</u>_, Peter J. Love
 
 ### Error Mitigation & Benchmarking
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **Ansatz-Free Learning of Lindbladian Dynamics In Situ** — _<u>Petr Ivashkov</u>_, Nikita Romanov, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin
 - **Beyond Hong-Ou-Mandel characterization of multiple single photons** — _<u>Stefan van den Hoven</u>_, Malaquias Correa Anguita, Sara Marzban, Jelmer Renema
 - **Characterizing time-dependent noise with compressed sensing** — _<u>Raphael Brieger</u>_, Amin Hosseinkhani
@@ -345,6 +354,9 @@ Benchmarks** — _<u>Alessio Calzona</u>_
 - **Classical Noise Inversion: A Practical and Optimal framework for Robust Quantum Applications** — _<u>Dayue Qin</u>_, Ying Li, You Zhou
 - **Cost-effective scalable quantum error mitigation for tiled Ansätze** — Oskar Graulund Lentz Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Jacob Kongsted, _<u>Karl Michael Ziems</u>_
 - **Error mitigation for logical circuits using decoder confidence** — _<u>Maria Dinca</u>_, Tim Chan, Simon Benjamin
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Error-mitigation aware benchmarking strategy for quantum optimization problems** — Pauline Besserve, _<u>Marine Demarty</u>_, Bo Yang, Kenza Hammam
 - **Lazy Quantum Walks with Multiqubit Gates** — _<u>Steph Foulds</u>_, Viv Kendon
 - **Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays** — _<u>Javier Oliva del Moral</u>_, Olatz Sanz Larrarte, Joana Fraxanet, Reza Dastbasteh, Dmytro Mishagli, Sergiy Zhuk, Josu Etxezarreta Martinez
@@ -356,16 +368,21 @@ on Real Quantum Hardware** — _<u>Emiliano Godinez-Ramirez</u>_, Raphael Briege
 - **Unlocking early fault-tolerant quantum computing with mitigated magic dilution** — _<u>Surabhi Luthra</u>_, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell
 
 ### Hardware, Architectures & Verification
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **A Folded Surface Code Architecture for 2D Quantum Hardware** — _<u>Zhu Sun</u>_, Zhenyu Cai
 - **A resource-efficient quantum-walker Quantum RAM** — Giuseppe De Riso, _<u>Giuseppe Catalano</u>_, Seth Lloyd, Vittorio Giovannetti, Dario De Santis
 - **Efficient certification of intractable quantum states with few Pauli measurements** — _<u>Sami Abdul Sater</u>_, Maxime Garnier, Thierry Martinez, Harold Ollivier, Ulysse Chabaud
 - **Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy** — Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, _<u>Cameron Calcluth</u>_
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Exploiting Physics for Efficient Computing** — _<u>Viv Kendon</u>_, Sampreet Kalita, Ben Butler, Susan Stepney
 - **Quantum Channel Certification: Complexity Bounds with and without promises** — _<u>Hirak Ghosh</u>_, Andrew Jackson, Animesh Datta
 - **Quantum fanout and GHZ states using isotropic spin-exchange interactions** — _<u>Stephen Fenner</u>_, Rabins Wosti
 - **Stoquastic permutationally invariant Bell operators** — _<u>Jan Li</u>_, Owidiusz Makuta, Evert van Nieuwenburg, Jordi Tura
 
 ### Quantum Algorithms
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **A matching decomposition algorithm for simulating quantum walk Hamiltonians** — Mostafa Atallah, _<u>Alvin Gonzales</u>_, Daniel Dilley, Igor Gaidai, Zain H. Saleem, Rebekah Herrman
 - **A Monte Carlo approach to bound Trotter error** — Nick S. Blunt, _<u>Aleksei V. Ivanov</u>_, Andreas Juul Bay-Smidt
 - **A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network** — _<u>Dean Brand</u>_, Francesco Petruccione
@@ -389,6 +406,9 @@ Circle Graph States Are Not Universal Resources** — Brent Harrison, Vishnu Iye
 - **Ground and Excited State Description via a Hybrid Quantum-Classical Method: Case Study of Three States** — _<u>Christophe Soule</u>_, Bruno Senjean, Benjamin Lasorne
 - **HQGA-PFSSP: A Hybrid Quantum Genetic Algorithm for the Permutation Flow Shop Scheduling Problem** — Fadia Boudiaf, Wifak Herkat, _<u>Faicel Hnaien</u>_
 - **Improving time dynamics simulation by sampling the error unitary** — Raul Santos Sanhueza, _<u>Lana Mineh</u>_, Adrian Chapman
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Lindblad engineering for quantum Gibbs state preparation under the eigenstate thermalization hypothesis** — Eric Brunner, Luuk Coopmans, _<u>Gabriel Matos</u>_, Matthias Rosenkranz, Frederic Sauvage, Yuta Kikuchi
 - **Low-depth amplitude estimation via statistical eigengap estimation** — _<u>Po-Wei Huang</u>_, Bálint Koczor
 - **Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties** — _<u>Kasturi Ranjan Swain</u>_, Rajesh K. Malla, Adolfo del Campo
@@ -412,6 +432,7 @@ IQP duality** — _<u>Sabrina Yue Wang</u>_, Raul A. Santos
 - **Variational Quantum Subspace Construction via Symmetry-Preserving Cost Functions** — _<u>Hamzat Akande</u>_, Alexandre Perrin, Bruno Senjean, Matthieu Saubanère
 
 ### Quantum Error Correction & Fault Tolerance
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **A 2d×d×d Spacetime Volume Implementation of a Logical S Gate in the Surface Code** — _<u>Yuga Hirai</u>_, Shota Ikari, Yosuke Ueno, Yasunari Suzuki
 - **A Bravyi-König theorem for Floquet codes based on conjugate stabiliser groups** — _<u>Jelena Mackeprang</u>_, Jonas Helsen
 - **A matching decoder for bivariate bicycle codes** — _<u>Kaavya Sahay</u>_, Dominic J. Williamson, Benjamin J. Brown
@@ -429,6 +450,9 @@ low-density parity-check codes** — _<u>Josu Etxezarreta Martinez</u>_, Reza Da
 - **Demonstration of measurement-free universal fault-tolerant quantum computation** — _<u>Robert Freund</u>_, Friederike Butt, Ivan Pogorelov, Alex Steiner, Marcel Meyer, Thomas Monz, Markus Müller
 - **Entanglement boosting: low-volume and high-yield logical entanglement generation** — _<u>Shinichi Sunami</u>_, Yutaka Hirano, Toshihide Hinokuma, Hayata Yamasaki
 - **Fault Tolerance by Construction: Synthesis and Optimisation for the Steane Code** — Benjamin Rodatz, _<u>Boldizsár Poór</u>_, Aleks Kissinger
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Magic state distillation with permutation-invariant codes and a two-qubit example** — _<u>Yingkai Ouyang</u>_
 - **Making Better Quality GKP Magic States by Error Correcting Cat and Fock States** — _<u>Sharon David</u>_, Francesco Arzani, Jack Davis, Ulysse Chabaud
 - **Mapping Rotated Surface Codes to 3×N railway** — _<u>Arun John Moncy</u>_, Reza Dastbasteh, Josu Etxezarreta Martinez, Ruben Otxoa de Zuazola
@@ -445,6 +469,7 @@ low-density parity-check codes** — _<u>Josu Etxezarreta Martinez</u>_, Reza Da
 - **Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes** — _<u>Alison Warman</u>_, Sakura Schafer-Nameki
 
 ### Quantum Simulation (Digital & Analog)
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **Beyond Born-Oppenheimer: Nonequilibrium Electron-Nuclear Dynamics on Quantum Computers** — _<u>Arta Schellhorn</u>_, Juliane Heitkämper, Alejandro Somoza, Birger Horstmann
 - **Classical Simulation of Noiseless Quantum Dynamics without Randomness** — Jue Xu, Chu Zhao, Xiangran Zhang, Shuchen Zhu, Qi Zhao, Presenting: _<u>Yue Wang</u>_
 - **Distant Bell State via Measured Spin Chain Dynamics** — _<u>Ralph Jason Costales</u>_, Sougato Bose
@@ -454,9 +479,12 @@ low-density parity-check codes** — _<u>Josu Etxezarreta Martinez</u>_, Reza Da
 - **From Fermions to Qubits: A ZX-Calculus Perspective** — _<u>Haytham McDowall-Rose</u>_, Razin Shaikh, Lia Yeh
 - **Green’s function quantum impurity solvers on neutral‑atom arrays with realistic noise** — _<u>Janik Kramer</u>_, Piero Naldesi, Andreas Kruckenhauser
 - **Hermitian Matrix Product Operators on Quantum Computers** — _<u>Naivasha Williams</u>_, Prof. Andrew Green
-- **How an Equi-ensemble Description Systematically Outperforms the Weighted-ensemble Variational Quantum Eigensolver** — _<u>Akilan Rajamani</u>_, Martin Beseda, Benjamin Lasorne, Bruno Senjean
 - **Probabilistic Computing Optimization of Complex Spin-Glass
 Topologies** — _<u>Fredrik Hasselgren</u>_, Max Al-Hasso, Amy Searle, Joseph Tindall, Marko von der Leyen
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
+- **How an Equi-ensemble Description Systematically Outperforms the Weighted-ensemble Variational Quantum Eigensolver** — _<u>Akilan Rajamani</u>_, Martin Beseda, Benjamin Lasorne, Bruno Senjean
 - **Probing dynamical freezing in programmable Rydberg atom arrays** — _<u>Madhumita Sarkar</u>_, Ben Zindorf, Bhaskar Mukherjee, Sougato Bose, Roopayan Ghosh
 - **Provably efficient quantum thermal state preparation via local driving** — _<u>Dominik Hahn</u>_, S. A. Parameswaran, Benedikt Placke
 - **Quantum Simulation with Gauge Symmetries: From Error Mitigation to Error Correction** — _<u>Julius Mildenberger</u>_, Luca Spagnoli, Philipp Hauke, Alessandro Roggero
@@ -467,10 +495,14 @@ Topologies** — _<u>Fredrik Hasselgren</u>_, Max Al-Hasso, Amy Searle, Joseph T
 - **Toward excited-state quantum dynamics with state-average orbital-optimized VQE** — _<u>Bruno Senjean</u>_, Benjamin Lasorne, Saad Yalouz, Martin Beseda, Silvie Illesova
 
 ### Theory of Near-Term Quantum Computing
+#### Poster presentations on Monday 20th April 17:00--18:30
 - **Entanglement-assisted circuit knitting: distributed quantum computing using limited entanglement resources** — _<u>ShaoHua Hu</u>_, Po-Sung Liu, Jun-Yi Wu
 - **On the stability to noise of fermion to qubit mappings** — Guillermo González García, Filippo Maria Gambetta, _<u>Raul A. Santos</u>_
 - **Optimal cutting of bosonic circuit** — _<u>Shao-Hua Hu</u>_, Jun-Yi Wu, Ray-Kuang Lee
 - **Robust Classical Shadows via Shadow-Aware M-Estimation** — _<u>Ethan Feldman</u>_
+
+#### Poster presentations on Tuesday 21st April 15:00--16:30
+
 - **Stratified Sampling for Quasi-Probability Decompositions** — _<u>Joshua Dai</u>_
 - **The Power of Lie-Algebraic Classical Simulation for Quantum Mean Values** — _<u>Adelina Bärligea</u>_, Jakob S. Kottmann
 - **The Trainer–Encoder Interaction Matrix: A Framework for Analysing Inductive Bias in Quantum Fourier Models** — _<u>Kyle James Stuart Campbell</u>_, Luigi Del Debbio, Petros Wallden
