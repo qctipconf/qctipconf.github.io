@@ -79,6 +79,22 @@ collection of recommended places where participants can find delicious meals out
 - Taxi and ride-sharing services available
 - Walking and cycling are popular ways to explore Oxford
 
+### Getting Into Oxford City Centre
+**From Holiday Inn & Travelodge (Peartree Roundabout):**
+- Use Pear Tree Park & Ride bus service to Gloucester Green (approx. 10–15 minutes).
+- Buses run frequently throughout the day.
+- Taxis into central Oxford take approx. 10–15 minutes (traffic dependent).
+
+**From Mathematical Institute & St Anne’s College:**
+- 15–20 minute walk down Woodstock Road into the city centre.
+- Regular buses run along Woodstock Road (5–10 minutes into town).
+
+
+
+
+
+
+
 ### Finding Accommodation in Oxford
 
 Please refer to [Registration](/registration) for information about recommended hotels and accommodation options.
