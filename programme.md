@@ -16,7 +16,11 @@ title: Programme
 <iframe src="./Schedule.pdf" width="100%" height="600px"></iframe>
 </details>
 
-Alternatively, a PDF of the schedule can be downloaded by clicking [Here](./Schedule.pdf).
+Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Schedule.pdf).
+
+# Book of Abstracts
+
+The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts.pdf).
 
 # Parallel Sessions Timetable
 Click on the relevant session to jump to the list of talks.
