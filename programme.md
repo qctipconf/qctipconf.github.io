@@ -355,7 +355,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Error Mitigation & Benchmarking
 
-#### Poster presentations on Monday 20th April 17:00--18:30 (7 posters)
+#### Poster presentations on Monday 20th April 17:00--18:30 (8 posters)
 - **Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays** — _<u>Javier Oliva del Moral</u>_, Olatz Sanz Larrarte, Joana Fraxanet, Reza Dastbasteh, Dmytro Mishagli, Sergiy Zhuk, Josu Etxezarreta Martinez
 - **Circuit Randomization: Optimization Strategies and Performance Benchmarks** — _<u>Alessio Calzona</u>_
 - **Error-mitigation aware benchmarking strategy for quantum optimization problems** — Pauline Besserve, _<u>Marine Demarty</u>_, Bo Yang, Kenza Hammam
