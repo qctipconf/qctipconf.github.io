@@ -363,6 +363,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Unlocking early fault-tolerant quantum computing with mitigated magic dilution** — _<u>Surabhi Luthra</u>_, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell
 - **Phase Shadow: A noise-tolerant path to global quantum property estimation** — _<u>Qingyue Zhang</u>_, Dayue Qin, Zhou You, Feng Xu, Jens Eisert, You Zhou
 - **Beyond Hong-Ou-Mandel characterization of multiple single photons** — _<u>Stefan van den Hoven</u>_, Malaquias Correa Anguita, Sara Marzban, Jelmer Renema
+- **Quantum Error Correction on Error-mitigated Physical Qubits** - _<u>Minjun Jeon</u>_, Zhenyu Cai
 
 #### Poster presentations on Tuesday 21st April 15:00--16:30 (8 posters)
 - **Error mitigation for logical circuits using decoder confidence** — _<u>Maria Dinca</u>_, Tim Chan, Simon Benjamin
