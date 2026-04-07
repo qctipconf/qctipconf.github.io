@@ -20,7 +20,7 @@ Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Sche
 
 # Book of Abstracts
 
-The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_001.pdf).
+The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_002.pdf).
 
 # Parallel Sessions Timetable
 Click on the relevant session to jump to the list of talks.
