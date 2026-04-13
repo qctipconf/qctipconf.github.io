@@ -446,7 +446,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 #### Poster presentations on Monday 20th April 17:00--18:30 (14 papers)
 
-- **Benchmarking Decoders for Qudit Error Correction** — _<u>Eleanor Kneip</u>_
+- **Benchmarking Decoders for Qudit Error Correction** — _<u>Eleanor Kneip</u>_, Dan Browne
 - **Mapping Rotated Surface Codes to 3×N railway** — _<u>Arun John Moncy</u>_, Reza Dastbasteh, Josu Etxezarreta Martinez, Ruben Otxoa de Zuazola
 - **Addressable fault-tolerant universal quantum gate operations for high-rate lift-connected surface codes** — Josias Old, Juval Bechar, Markus Müller, _<u>Sascha Heußen</u>_
 - **Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes** — _<u>Alison Warman</u>_, Sakura Schafer-Nameki
