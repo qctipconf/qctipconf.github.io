@@ -344,13 +344,13 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Circuit Optimization of Qubit IC–POVMs** — _<u>Zhou You</u>_, Qing Liu, You Zhou
 - **Quantum Advantage in Resource Estimation** — _<u>William Simon</u>_, Peter J. Love
 
-#### Poster presentations on Tuesday 21st April 15:00--16:30 (5 posters)
+#### Poster presentations on Tuesday 21st April 15:00--16:30 (6 posters)
 - **Optimised Fermion-Qubit Encodings for Reduced Circuit Depth** — _<u>Michael Williams De La Bastida</u>_, Thomas M. Bickley, Peter V. Coveney
 - **Multilevel Quantum Circuit Partitioning** — _<u>Felix Burt</u>_, Kuan-Cheng Chen, Kin K. Leung
 - **Decomposing diagonal multi-qudit gates** — _<u>Daniele Trisciani</u>_, Samuel Whaite, Zoltan Zimboras
 - **Multi-Controlled Quantum Gates in Linear Nearest Neighbor** — _<u>Ben Zindorf</u>_, Sougato Bose
 - **Global vs Local encodings for Distributed Quantum Computing** — _<u>Maria Gragera Garces</u>_
-
+- **Reinforcement Learning on Factor–Qubit Bipartite Graphs for T-Gate Optimization in Fault-Tolerant Quantum Circuits** — _<u>Yousra Farhani</u>_, Gemma C. Solomon
 
 
 ### Error Mitigation & Benchmarking
