@@ -219,7 +219,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 - **High-performance syndrome extraction circuits for quantum codes** — _<u>Armands Strikis</u>_, Dan Browne, Michael Beverland
 
-- **Computing Efficiently in QLDPC Codes** — _<u>Alexander Malcolm</u>_, Andrew Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda Quintavalle, Stefanie Beale, Nichola Lee-Hone, Stephanie Simmons
+- **Computing Efficiently in QLDPC Codes** — _<u>Alexander Malcolm</u>_, Andrew Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda Quintavalle, Stefanie Beale, Nicholas Lee-Hone, Stephanie Simmons
 
 </details>
 
