@@ -396,7 +396,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 #### Poster presentations on Monday 20th April 17:00--18:30 (21 posters)
 
 - **Quantum Algorithms for the Plasma Physics** — _<u>Matthew Christensen</u>_, Tom Goffrey, Animesh Datta
-- **Ground and Excited State Description via a Hybrid Quantum-Classical Method: Case Study of Three States** — _<u>Christophe Soule</u>_, Bruno Senjean, Benjamin Lasorne
+- **Unified adiabatic and diabatic excited-state description via the ensemble-variational quantum eigensolver** — _<u>Christophe Soule</u>_, Bruno Senjean, Benjamin Lasorne
 - **Fast Quantum Many Body state synthesis** — _<u>Prashasti Tiwari</u>_, Sougato Bose, Dylan Lewis
 - **Trainability of Parametrised Linear Combinations of Unitaries** — _<u>Nikhil Khatri</u>_, Gabriel Matos, Stefan Zohren
 - **Quantum Algorithm for Filtering Eigenvectors** — _<u>Aashna Zade</u>_, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
