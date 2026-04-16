@@ -438,7 +438,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Fermionic Insights into Measurement-Based Quantum Computation: Circle Graph States Are Not Universal Resources** — Brent Harrison, Vishnu Iyer, Ojas Parekh, Kevin Thompson, _<u>Andrew Zhao</u>_
 - **Solving larger Travelling Salesman Problem networks with a penalty-free Variational Quantum Algorithm** — _<u>Daniel Goldsmith</u>_, Xing Liang, Dimitrios Makris, Hongwei Wu
 - **Improving time dynamics simulation by sampling the error unitary** — Raul Santos Sanhueza, _<u>Lana Mineh</u>_, Adrian Chapman
-- - **Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** — Kin Ian Lo, Tilen Limback-Stokin, _<u>Theodor Iosif</u>_, Yidong Liao
+- **Advancing Quantum Graph Neural Networks via Heat-Kernel Diffusion and Adaptive Residual Connections** — Paul San Sebastian, Tilen Limback-Stokin, Kin Ian Lo, _<u>Theodor Iosif</u>_, Yidong Liao
 
 
 
