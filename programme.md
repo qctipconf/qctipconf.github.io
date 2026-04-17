@@ -8,20 +8,20 @@ title: Programme
 # Keynote Talks
 ### **Robin Kothari** (Google Quantum AI)
 Title: **Multi-qubit Toffoli with exponentially fewer T gates**<br />
-Time: Monday 20th April, 09:40 – 10:40<br />
+Time: Monday 20th April, 09:40–10:40<br />
 Location: Lecture Theatre L1<br />
 Session chair: Balint Koczor, Aleks Kissinger
 
 
 ### **Simon Benjamin** (University of Oxford and Quantum Motion)
 Title: **Pipes, Loops and Snakes: Quantum computing with semiconductor devices**<br />
-Time: Wednesday 22nd April, 09:30 – 10:30<br />
+Time: Wednesday 22nd April, 09:30–10:30<br />
 Location: Lecture Theatre L1<br />
 Session chair: Laura Herzog
 
 
 # Industry Talks Session
-Time: Tuesday 21st April, 14:00 – 15:00<br />
+Time: Tuesday 21st April, 14:00–15:00<br />
 Location: Lecture Theatre L1<br />
 Session chair: Matthias C. Caro
 
