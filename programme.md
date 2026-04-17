@@ -5,9 +5,29 @@ title: Programme
 
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
-# Keynote Speakers
-- **Robin Kothari** (Google Quantum AI)
-- **Simon Benjamin** (University of Oxford and Quantum Motion)
+# Keynote Talks
+### **Robin Kothari** (Google Quantum AI)
+Title: **Multi-qubit Toffoli with exponentially fewer T gates**<br />
+Time: Monday 20th April, 09:40 – 10:40<br />
+Location: Lecture Theatre L1<br />
+Session chair: Balint Koczor, Aleks Kissinger
+
+
+### **Simon Benjamin** (University of Oxford and Quantum Motion)
+Title: **Pipes, Loops and Snakes: Quantum computing with semiconductor devices**<br />
+Time: Wednesday 22nd April, 09:30 – 10:30<br />
+Location: Lecture Theatre L1<br />
+Session chair: Laura Herzog
+
+
+# Industry Talks Session
+Time: Tuesday 21st April, 14:00 – 15:00<br />
+Location: Lecture Theatre L1<br />
+Session chair: Matthias C. Caro
+
+- **Joel Klassen** (Phasecraft)
+- **Coral Westoby** (Nu Quantum)
+- **Harry Buhrman** (Quantinuum)
 
 # Schedule
 
@@ -47,9 +67,9 @@ Click on the relevant session to jump to the list of talks.
 Names of presenting authors have been _<u>underlined</u>_.
 
 
-
-
 ### Algorithms I -- Optimization
+
+_Session Chair: Ashley Montanaro_
 
 - **A Rigorous Quantum Framework for Inequality-Constrained and Multi-Objective Binary Optimization** — Sebastian Egginger, Kristina Kirova, Sonja Bruckner, Stefan Hillmich, _<u>Richard Kueng</u>_
 
@@ -58,10 +78,11 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Verifiable Quantum Advantage via Optimized DQI Circuits** — _<u>Tanuj Khattar</u>_, Noah Shutty, Craig Gidney, Adam Zalcman, Noureldin Yosri, Dmitri Maslov, Ryan Babbush, Stephen P. Jordan
 
 
-
 ### QEC I -- Decoders
 
-- **Interpretability of Neural Network Decoders for Fault — Tolerant Quantum Error Correction**, _<u>Lukas Bödeker</u>_
+_Session Chair: Ophelia Crawford_
+
+- **Interpretability of Neural Network Decoders for Fault-Tolerant Quantum Error Correction**, _<u>Lukas Bödeker</u>_, Luc J. B. Kusters, Markus Müller
 
 - **Colour Codes Reach Surface Code Performance using Vibe Decoding** — _<u>Stergios Koutsioumpas</u>_, Tamas Noszko, Hasan Sayginel, Mark Webster, Joschka Roffe
 
@@ -69,15 +90,17 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Algorithms II -- Quantum Chemistry
 
+_Session Chair: Joel Klassen_
+
 - **A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer** — _<u>Karthik Seetharam</u>_, Matteo Lostaglio, Burak Sahinoglu, Sam Pallister, Felipe Jornada
 
 - **Faster Quantum Chemistry Simulations on a Quantum Computer with Improved Tensor Factorization and Active Volume Compilation** — _<u>William Pol</u>_, Sukin Sim, Mark Steudtner, Athena Caesura, Cristian Cortes, Gian-Luca R. Anselmetti, Matthias Degroote, Nikolaj Moll, Raffaele Santagati, Michael Streif, Christofer S. Tautermann
 
 - **Fullqubit alchemist: Quantum algorithm for alchemical free energy calculations** — _<u>Po-Wei Huang</u>_, Gregory Boyd, Gian-Luca R. Anselmetti, Matthias Degroote, Nikolaj Moll, Raffaele Santagati, Michael Streif, Benjamin Ries, Daniel Marti-Dafcik, Hamza Jnane, Sophia Simon, Nathan Wiebe, Thomas R. Bromley, Bálint Koczor
 
-
-
 ### Testing and Verification
+
+_Session Chair: Hugo Thomas_
 
 - **Composable Verification in the Circuit-Model via Magic-Blindness** — _<u>Sami Abdul Sater</u>_, Harold Ollivier
 
@@ -86,8 +109,9 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Is it Gaussian? Testing bosonic quantum states** — _<u>Filippo Girardi</u>_, Freek Witteveen, Francesco Anna Mele, Lennart Bittel, Salvatore Francesco Emanuele Oliviero, David Gross, Michael Walter
 
 
-
 ### Learning I
+
+_Session Chair: Zoltan Zimboras_
 
 - **Cloning is as Hard as Learning for Stabilizer States** — _<u>Nikhil Bansal</u>_, Matthias C. Caro, Gaurav Mahajan
 
@@ -99,13 +123,19 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Algorithms III -- General
 
+_Session Chair: Viv Kendon_
+
 - **State-to-Hamiltonian conversion with a few copies** — _<u>Kaito Wada</u>_, Jumpei Kato, Hiroyuki Harada, Naoki Yamamoto
 
 - **Randomized Truncation for Quantum State Preparation and Series-Truncated Algorithms** — _<u>Yue Wang</u>_, Xiao-Ming Zhang, Xiao Yuan, Qi Zhao
 
 - **Quantum algorithms through graph composition** — _<u>Arjan Cornelissen</u>_
 
+
+
 ### Many-Body Quantum Physics and Information
+
+_Session Chair: Linnea Grans-Samuelsson_
 
 - **Computational complexity of Berry phase estimation in topological phases of matter** — _<u>Ryu Hayakawa</u>_, Kazuki Sakamoto, Chusei Kiumi
 
@@ -113,7 +143,11 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 - **Rapid Mixing of Quantum Gibbs Samplers for Weakly-Interacting Quantum Systems** — _<u>Štěpán Šmíd</u>_, Richard Meister, Mario Berta, Roberto Bondesan
 
+
+
 ### Compilation and Resource Estimation
+
+_Session Chair: Aleks Kissinger_
 
 - **Characterizing Space Requirements for Quantum Computations via Signaling Conditions** — _<u>Kosuke Matsui</u>_, Jun-Yi Wu, Hayata Yamasaki, Min-Hsiu Hsieh, Mio Murao
 
@@ -125,6 +159,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Algorithms IV -- Dynamics
 
+_Session Chair: Oleksandr Kyriienko_
+
 - **Quantum algorithms for general nonlinear dynamics based on the Carleman embedding** — _<u>David Jennings</u>_, Kamil Korzekwa, Matteo Lostaglio, Andrew T Sornborger, Yigit Subasi, Guoming Wang
 
 - **An end-to-end quantum algorithm for nonlinear fluid dynamics with bounded quantum advantage** — David Jennings, _<u>Kamil Korzekwa</u>_, Matteo Lostaglio, Paul Mannix, Richard Ashworth, Emanuele Marsili, Stephen Rolston
@@ -134,6 +170,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 
 ### QEC II - Topological Codes
+
+_Session Chair: Mike Vasmer_
 
 - **Rethinking Lattice Surgery Compilation: Diverse Topological Codes and Movable Logical Qubits** — _<u>Laura S. Herzog</u>_, Lucas Berent, Aleksander Kubica, Robert Wille
 
@@ -145,13 +183,18 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Learning II
 
+_Session Chair: Tom Bromley_
+
 - **Shedding light on classical shadows: learning photonic quantum states** — _<u>Hugo Thomas</u>_, Ulysse Chabaud, Pierre-Emmanuel Emeriau
 
 - **Polynomial Speed-Up in Photonic Neural Networks via Adaptive State Injection** — _<u>Léo Monbroussou</u>_, Eliott Z. Mamon, Hugo Thomas, Verena Yacoub, Elham Kashefi
 
 - **Do you know what q-means?** — Alessandro Luongo, _<u>João Doriguello</u>_, Ewin Tang, Arjan Cornelissen
 
+
 ### Benchmarking and Classical Simulation
+
+_Session Chair: Alexandra Moylett_
 
 - **Limitations on Measurement-free Fault-tolerant Protocols using Clifford Circuits** — _<u>Jon Nelson</u>_, Joel Rajakumar, Dominik Hangleiter, Michael Gullans
 
@@ -163,6 +206,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Algorithms V -- Hamiltonian Simulation
 
+_Session Chair: William Huggins_
+
 - **Quantum singular value transformation without block encodings** — Shantanav Chakraborty, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, _<u>Xinzhao Wang</u>_, Yuxin Zhang
 
 - **Trotter error mitigation by error profiling with shallow quantum circuit** — _<u>Sangjin Lee</u>_, Youngseok Kim, Seung-Woo Lee
@@ -172,6 +217,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 
 ### QEC III -- Fault Tolerance and Compilation
+
+_Session Chair: Mike Beverland_
 
 - **Check-weight-constrained quantum codes: Bounds and examples** — _<u>Lily Wang</u>_, Andy Zeyi Liu, Ray Li, Aleksander Kubica, Shouzhen (Bailey) Gu
 
@@ -183,6 +230,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Fermionic Systems
 
+_Session Chair: Greg Boyd_
+
 - **The Quantum Paldus Transform: Efficient Circuits with Applications** — _<u>Jedrzej Burkat</u>_, Nathan Fitzpatrick
 
 - **Near-Term Fermionic Simulation with Subspace Noise Tailored Quantum Error Mitigation** — _<u>Miha Papič</u>_, Manuel G. Algaba, Emiliano Godinez-Ramirez, Inés de Vega, Adrian Auer, Fedor Šimkovic IV, Alessio Calzona
@@ -192,6 +241,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 
 ### Quantum Control and Emulation
+
+_Session Chair: Mio Murao_
 
 - **Quantum Optimal Control with Geodesic Pulse Engineering** — _<u>Dylan Lewis</u>_, Roeland Wiersema, Sougato Bose
 
@@ -203,6 +254,8 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 ### Algorithms VI -- Optimization II
 
+_Session Chair: Richard Kueng_
+
 - **A quantum analogue of convex optimization** — _<u>Eunou Lee</u>_
 
 - **A measurement-driven quantum algorithm for SAT: Performance guarantees via spectral gaps and measurement parallelization** — Franz J. Schreiber, _<u>Maximilian J. Kramer</u>_, Alexander Nietner, Jens Eisert
@@ -211,9 +264,9 @@ Names of presenting authors have been _<u>underlined</u>_.
 
 
 
-
-
 ### QEC IV -- qLDPC Codes
+
+_Session Chair: TBC_
 
 - **Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware** — _<u>Gyorgy Geher</u>_, David Byfield, Archibald Ruban
 
