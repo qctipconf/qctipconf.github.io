@@ -401,7 +401,7 @@ Names of presenting authors have been _<u>underlined</u>_.
 - **Trainability of Parametrised Linear Combinations of Unitaries** — _<u>Nikhil Khatri</u>_, Gabriel Matos, Stefan Zohren
 - **Quantum Algorithm for Filtering Eigenvectors** — _<u>Aashna Zade</u>_, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
 - **Energy landscapes of quantum algorithms in electronic structure and quantum machine learning** — _<u>Choy Boy</u>_, Edoardo Altamura, Dilhan Manawadu, Ivano Tavernelli, Stefano Mensa, David J. Wales
-- **Ah Shadow Enhanced Greedy Quantum Eigensolver** — _<u>Jona Erle</u>_, Bálint Koczor
+- **A Shadow Enhanced Greedy Quantum Eigensolver** — _<u>Jona Erle</u>_, Bálint Koczor
 - **Lindblad engineering for quantum Gibbs state preparation under the eigenstate thermalization hypothesis** — Eric Brunner, Luuk Coopmans, _<u>Gabriel Matos</u>_, Matthias Rosenkranz, Frederic Sauvage, Yuta Kikuchi
 - **Do quantum linear solvers offer advantage for networks-based system of linear equations?** — Disha Shetty, Supriyo Dutta, Palak Chawla, Akshaya Jayashankar, Kenji Sugisaki, Jordi Riu, Jan Nogue, _<u>Srinivasa Prasannaa Venkataramanan</u>_
 - **Exploring Trainability of Quantum Fourier Models via Data-Tailored Encoding Schemes** — _<u>Felix Paul</u>_, Björn Minneker, Peter Jung
