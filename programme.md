@@ -171,7 +171,7 @@ _Session Chair: Oleksandr Kyriienko_
 
 ### QEC II - Topological Codes
 
-_Session Chair: Mike Vasmer_
+_Session Chair: Michael Vasmer_
 
 - **Rethinking Lattice Surgery Compilation: Diverse Topological Codes and Movable Logical Qubits** — _<u>Laura S. Herzog</u>_, Lucas Berent, Aleksander Kubica, Robert Wille
 
@@ -183,7 +183,7 @@ _Session Chair: Mike Vasmer_
 
 ### Learning II
 
-_Session Chair: Tom Bromley_
+_Session Chair: Thomas Bromley_
 
 - **Shedding light on classical shadows: learning photonic quantum states** — _<u>Hugo Thomas</u>_, Ulysse Chabaud, Pierre-Emmanuel Emeriau
 
@@ -218,7 +218,7 @@ _Session Chair: William Huggins_
 
 ### QEC III -- Fault Tolerance and Compilation
 
-_Session Chair: Mike Beverland_
+_Session Chair: Michael Beverland_
 
 - **Check-weight-constrained quantum codes: Bounds and examples** — _<u>Lily Wang</u>_, Andy Zeyi Liu, Ray Li, Aleksander Kubica, Shouzhen (Bailey) Gu
 
@@ -230,7 +230,7 @@ _Session Chair: Mike Beverland_
 
 ### Fermionic Systems
 
-_Session Chair: Greg Boyd_
+_Session Chair: Gregory Boyd_
 
 - **The Quantum Paldus Transform: Efficient Circuits with Applications** — _<u>Jedrzej Burkat</u>_, Nathan Fitzpatrick
 
