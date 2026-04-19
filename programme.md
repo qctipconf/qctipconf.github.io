@@ -33,10 +33,10 @@ Session chair: Matthias C. Caro
 
 <details markdown="1">
 <summary><strong>Click here</strong> to open the detailed schedule of the conference progamme in the browser.</summary> 
-<iframe src="./Schedule002.pdf" width="100%" height="600px"></iframe>
+<iframe src="./Schedule003.pdf" width="100%" height="600px"></iframe>
 </details>
 
-Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Schedule002.pdf).
+Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Schedule003.pdf).
 
 # Book of Abstracts
 
