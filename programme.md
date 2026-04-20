@@ -53,6 +53,7 @@ Click on the parallel session to jump to the list of talks.
 | Monday <br> 15:30–17:00       | [Learning I](#learning-i) | [Algorithms III -- General](#algorithms-iii--general) |
 | Monday <br> 17:00-18:00       | <span style="color:#999">Poster Session 1 (North/South Mezzanine)</span> ||
 
+
 |                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
 |:-------------:|:-----------------------------------------:|:------------------------------------------:|
 | Tuesday <br> 09:30–11:00      | [Many-Body Quantum Physics and Information](#many-body-quantum-physics-and-information) | [Compilation and Resource Estimation](#compilation-and-resource-estimation) |
@@ -60,6 +61,7 @@ Click on the parallel session to jump to the list of talks.
 | Tuesday <br> 14:00-15:00      | Industry talks | |
 | Tuesday <br> 15:00-16:30       | <span style="color:#999">Group Photo + Poster Session 2 (North/South Mezzanine)</span> ||
 | Tuesday <br> 16:30–18:00      | [Learning II](#learning-ii) | [Benchmarking and Classical Simulation](#benchmarking-and-classical-simulation) |
+
 
 |                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
 |:-------------:|:-----------------------------------------:|:------------------------------------------:|
