@@ -266,7 +266,7 @@ _Session Chair: Richard Kueng_
 
 ### QEC IV -- qLDPC Codes
 
-_Session Chair: TBC_
+_Session Chair: Abhishek Rajput_
 
 - **Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware** — _<u>Gyorgy Geher</u>_, David Byfield, Archibald Ruban
 
