@@ -51,11 +51,11 @@ Click on the parallel session to jump to the list of talks.
 | Monday <br> 11:00–12:30       | [Algorithms I -- Optimization](#algorithms-i--optimization) | [QEC I -- Decoders](#qec-i--decoders) |
 | Monday <br> 13:30–15:00       | [Algorithms II -- Quantum Chemistry](#algorithms-ii--quantum-chemistry) | [Testing and Verification](#testing-and-verification) |
 | Monday <br> 15:30–17:00       | [Learning I](#learning-i) | [Algorithms III -- General](#algorithms-iii--general) |
-| Monday <br> 17:00-18:00       | <span style="color:#999">Poster Session 1 (North/South Mezzanine)</span> ||
+| Monday <br> 17:00-18:00       | <span style="color:#999">Poster Session 1 <br> (North/South Mezzanine)</span> ||
 | Tuesday <br> 09:30–11:00      | [Many-Body Quantum Physics and Information](#many-body-quantum-physics-and-information) | [Compilation and Resource Estimation](#compilation-and-resource-estimation) |
 | Tuesday <br> 11:30–13:00      | [Algorithms IV -- Dynamics](#algorithms-iv--dynamics) | [QEC II - Topological Codes](#qec-ii---topological-codes) |
 | Tuesday <br> 14:00-15:00      | Industry talks | |
-| Tuesday <br> 15:00-16:30       | <span style="color:#999">Group Photo + Poster Session 2 (North/South Mezzanine)</span> ||
+| Tuesday <br> 15:00-16:30       | <span style="color:#999">Group Photo + Poster Session 2 <br> (North/South Mezzanine)</span> ||
 | Tuesday <br> 16:30–18:00      | [Learning II](#learning-ii) | [Benchmarking and Classical Simulation](#benchmarking-and-classical-simulation) |
 | Wednesday <br> 9:30-10:40     | Keynote Simon Benjamin | |
 | Wednesday <br> 11:00–12:30    | [Algorithms V -- Hamiltonian Simulation](#algorithms-v--hamiltonian-simulation) | [QEC III -- Fault Tolerance and Compilation](#qec-iii--fault-tolerance-and-compilation) |
