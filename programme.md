@@ -552,7 +552,7 @@ _Session Chair: Joschka Roffe_
 - **From Fermions to Qubits: A ZX-Calculus Perspective** — _<u>Haytham McDowall-Rose</u>_, Razin Shaikh, Lia Yeh
 - **Semidefinite Programming Hierarchies for Quantum Spin Systems** — _<u>Ali Almasi</u>_, Peter Brown, Dávid Bugár, Cambyse Rouzé
 
-#### Poster presentations on Tuesday 21st April 15:00--16:30 (9 posters)
+#### Poster presentations on Tuesday 21st April 15:00--16:30 (10 posters)
 - **Fast convergence of Majorana Propagation for weakly interacting fermions** — _<u>Giorgio Facelli</u>_, Hamza Fawzi, Omar Fawzi
 - **First-Quantised Electron Scattering Simulations on Trapped-Ion Quantum Hardware** — _<u>Chiara Leadbeater</u>_, Nathan Fitzpatrick, David Muñoz Ramo, Alex J. W. Thom
 - **Green’s function quantum impurity solvers on neutral‑atom arrays with realistic noise** — _<u>Janik Kramer</u>_, Piero Naldesi, Andreas Kruckenhauser
@@ -562,7 +562,7 @@ _Session Chair: Joschka Roffe_
 - **Efficient Simulation of Sparse, Non-Local Fermion Models** — _<u>Reinis Irmejs</u>_, Ignacio Cirac
 - **Probabilistic Computing Optimization of Complex Spin-Glass Topologies** — _<u>Fredrik Hasselgren</u>_, Max Al-Hasso, Amy Searle, Joseph Tindall, Marko von der Leyen
 - **Distant Bell State via Measured Spin Chain Dynamics** — _<u>Ralph Jason Costales</u>_, Sougato Bose
-
+- **Fault-tolerant resource estimation for ground-state preparation via Lindblad simulation** — _<u>Marius Bothe</u>_, Nick Blunt
 
 
 
