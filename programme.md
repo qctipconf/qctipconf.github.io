@@ -560,7 +560,7 @@ _Session Chair: Joschka Roffe_
 - **Efficient Simulation of Sparse, Non-Local Fermion Models** — _<u>Reinis Irmejs</u>_, Ignacio Cirac
 - **Probabilistic Computing Optimization of Complex Spin-Glass Topologies** — _<u>Fredrik Hasselgren</u>_, Max Al-Hasso, Amy Searle, Joseph Tindall, Marko von der Leyen
 - **Distant Bell State via Measured Spin Chain Dynamics** — _<u>Ralph Jason Costales</u>_, Sougato Bose
-- **Fault-tolerant resource estimation for ground-state preparation via Lindblad simulation** — _<u>Marius Bothe</u>_
+- **Fault-tolerant resource estimation for ground-state preparation via Lindblad simulation** — _<u>Marius Bothe</u>_, Nick Blunt
 
 
 
