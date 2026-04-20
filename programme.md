@@ -42,20 +42,23 @@ Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Sche
 
 The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_002.pdf).
 
-# Parallel Sessions Timetable
-Click on the relevant session to jump to the list of talks.
+# Timetable
+Click on the parallel session to jump to the list of talks.
 
 |                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
 |:-------------:|:-----------------------------------------:|:------------------------------------------:|
+| Monday <br> 9:30-10:40        | Welcome + Keynote Robin Kothari | |
 | Monday <br> 11:00–12:30       | [Algorithms I -- Optimization](#algorithms-i--optimization) | [QEC I -- Decoders](#qec-i--decoders) |
 | Monday <br> 13:30–15:00       | [Algorithms II -- Quantum Chemistry](#algorithms-ii--quantum-chemistry) | [Testing and Verification](#testing-and-verification) |
 | Monday <br> 15:30–17:00       | [Learning I](#learning-i) | [Algorithms III -- General](#algorithms-iii--general) |
 | Tuesday <br> 09:30–11:00      | [Many-Body Quantum Physics and Information](#many-body-quantum-physics-and-information) | [Compilation and Resource Estimation](#compilation-and-resource-estimation) |
 | Tuesday <br> 11:30–13:00      | [Algorithms IV -- Dynamics](#algorithms-iv--dynamics) | [QEC II - Topological Codes](#qec-ii---topological-codes) |
+| Tuesday <br> 14:00-15:00      | Industry talks | |
 | Tuesday <br> 16:30–18:00      | [Learning II](#learning-ii) | [Benchmarking and Classical Simulation](#benchmarking-and-classical-simulation) |
-| Wednesday <br> 11:00–12:30       | [Algorithms V -- Hamiltonian Simulation](#algorithms-v--hamiltonian-simulation) | [QEC III -- Fault Tolerance and Compilation](#qec-iii--fault-tolerance-and-compilation) |
-| Wednesday <br> 13:30–15:00       | [Fermionic Systems](#fermionic-systems) | [Quantum Control and Emulation](#quantum-control-and-emulation) |
-| Wednesday <br> 15:30–17:00       | [Algorithms VI -- Optimization II](#algorithms-vi--optimization-ii) | [QEC IV -- qLDPC Codes](#qec-iv--qldpc-codes) |
+| Wednesday <br> 9:30-10:40     | Keynote Simon Benjamin | |
+| Wednesday <br> 11:00–12:30    | [Algorithms V -- Hamiltonian Simulation](#algorithms-v--hamiltonian-simulation) | [QEC III -- Fault Tolerance and Compilation](#qec-iii--fault-tolerance-and-compilation) |
+| Wednesday <br> 13:30–15:00    | [Fermionic Systems](#fermionic-systems) | [Quantum Control and Emulation](#quantum-control-and-emulation) |
+| Wednesday <br> 15:30–17:00    | [Algorithms VI -- Optimization II](#algorithms-vi--optimization-ii) | [QEC IV -- qLDPC Codes](#qec-iv--qldpc-codes) |
 
 
 
