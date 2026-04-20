@@ -174,7 +174,7 @@ _Session Chair: Oleksandr Kyriienko_
 
 ### QEC II - Topological Codes
 
-_Session Chair: Michael Vasmer_
+_Session Chair: Joschka Roffe_
 
 - **Rethinking Lattice Surgery Compilation: Diverse Topological Codes and Movable Logical Qubits** — _<u>Laura S. Herzog</u>_, Lucas Berent, Aleksander Kubica, Robert Wille
 
@@ -269,7 +269,7 @@ _Session Chair: Richard Kueng_
 
 ### QEC IV -- qLDPC Codes
 
-_Session Chair: Joschka Roffe_
+_Session Chair: Michael Vasmer_
 
 - **Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware** — _<u>Gyorgy Geher</u>_, David Byfield, Archibald Ruban
 
