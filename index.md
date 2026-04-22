@@ -23,7 +23,7 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 
 
 
-![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
+![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%}
 
 ## Key Dates
 
@@ -40,6 +40,8 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 **[Sign Up](https://forms.gle/F71sgY3am1UKYAck8) to our mailing list to receive notifications of important events,
 such as when registration opens.**
 
+
+![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
 
 ## Local Organisers
 
