@@ -6,7 +6,7 @@
 title: Quantum Computing Theory in Practice
 description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://qctipconf.github.io/landing_page" # the base hostname & protocol for your site
+url: "https://qctipconf.github.io/" # the base hostname & protocol for your site
 
 # Conference details
 conference:
