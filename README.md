@@ -47,6 +47,7 @@ The generated site will be in the `_site` directory.
 ## Site Structure
 
 - `index.md` - Homepage
+- `committees.md` - details of committees
 - `about.md` - About the conference
 - `programme.md` - Conference programme and schedule
 - `venue.md` - Venue and travel information
