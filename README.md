@@ -30,7 +30,7 @@ QCTiP 2026 is an international conference bringing together researchers, practit
 
 3. Run the Jekyll server:
    ```bash
-   bundle exec jekyll serve
+   bundle exec jekyll serve --baseurl=""
    ```
 
 4. Open your browser and navigate to `http://localhost:4000`
