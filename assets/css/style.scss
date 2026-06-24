@@ -30,6 +30,22 @@
   backdrop-filter: blur(10px);
 }
 
+nav {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.nav-logo-outside {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-right: 6.25rem;
+}
+
 /* Button styles */
 .btn {
   background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-light)) !important;
