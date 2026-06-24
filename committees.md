@@ -3,8 +3,13 @@ layout: default
 title: Committees
 ---
 
-### Committees
+# Steering Committee for QCTiP 2027
 
-sfg
+#### Chair
+- **Balint Koczor** (University of Oxford)
+
+#### Members
+- Noah Linden (University of Bristol)
+- ....
 
 
