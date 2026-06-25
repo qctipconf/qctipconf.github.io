@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Committees
+title: About the Steering Committee
 ---
 
 ## Current Steering Committee
@@ -18,7 +18,7 @@ Last updated: {{ site.time }}
 
 ## About the Steering Committee
 
-#### Role of the SC
+### Role of the Steering Committee
 The role of the steering committee (SC) includes the following.
 
 - To set the long-term direction
@@ -26,7 +26,9 @@ of the QCTiP conference.
 
 - To decide on the location of the next event.
 
-- To appoint the PC Chair and invited speakers.
+- To appoint the PC Chair at least 6 months in advance of the next event.
+
+- To appoint a small number of invited speakers.
 
 - To advise on policies relating to paper
 submission rules.
@@ -39,7 +41,7 @@ The SC should also serve as an oversight body to oversee the work of
 the local organisers and advise on the dates and structure of the programme of
 the next QCTiP event.
 
-#### Members of the SC
+### Members of the SC
 The SC consists of approximately 6 members. A new SC with a new SC Chair is
 appointed every year within 2 months after the most recent QCTiP event.
 The SC typically includes the local organizers of the previous three QCTiP
@@ -47,7 +49,7 @@ conferences, the local organiser(s) of the next QCTiP event, and is chaired
 by one of the local organisers of the most recent previous event.
 SC members are expected to serve typically for 3 years.
 
-#### Appointing leadership for future events
+### Appointing leadership for future events
 At every QCTiP event, the SC invites members of the community to submit bids
 for holding the next QCTiP conference. A bid should indicate the proposed venue and names of
 the proposed lead organisers.
@@ -65,6 +67,3 @@ setting the conference programme. The SC may also advise the local organisers
 on the structure of the schedule/programme for the next event before approving it.
 
 
-## About the Programme Committee
-
-The Programme Committee is ...

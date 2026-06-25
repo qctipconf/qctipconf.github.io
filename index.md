@@ -29,5 +29,4 @@ Last updated: {{ site.time }}
 
 This webpage is part of [https://github.com/qctipconf](https://github.com/qctipconf)
 and is maintained by **Balint Koczor** and **Aleks Kissinger** (University of Oxford).
-Please see [contacts](/contact) for contact information.
 
