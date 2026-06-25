@@ -4,8 +4,6 @@ title: Quantum Computing Theory in Practice
 ---
 
 
-![Oxford Venue](assets/images/qctip.png){:.center-image style="width:20%"}
-
 ## Conference series on quantum computing theory
 
 We are witnessing impressive progress in quantum hardware development and ongoing theoretical advancements

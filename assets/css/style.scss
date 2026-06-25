@@ -15,6 +15,15 @@
   --BUTTONBORDERCOLOR: #241f1f;
 }
 
+.header-logo {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  width: 10%;
+  max-width: 250px;
+  height: auto;
+}
+
 /* Header gradient - replace green with Oxford blue */
 .page-header {
   background: var(--HEADERCOLOR) !important;
