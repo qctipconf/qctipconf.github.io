@@ -16,7 +16,7 @@ title: Committees
 
 Last updated: {{ site.time }}
 
-## Role and Responsibilities of the SC
+## About the Steering Committee
 
 #### Role of the SC
 The role of the steering committee (SC) is to set the long-term direction
@@ -51,3 +51,8 @@ The SC may additionally advise the Programme Committee Chair on policies relatin
 to paper submission rules etc, but otherwise gives freedom to the PC on
 setting the conference programme. The SC may also advise the local organisers
 on the structure of the schedule/programme for the next event before approving it.
+
+
+## About the Programme Committee
+
+The Programme Committee is ...
