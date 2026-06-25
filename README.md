@@ -1,12 +1,12 @@
-# QCTiP 2026 - Quantum Computing Theory in Practice
+# Quantum Computing Theory in Practice (QCTiP)
 
-Conference website for **Quantum Computing Theory in Practice (QCTiP 2026)**, hosted by the University of Oxford.
+Landing page for the **Quantum Computing Theory in Practice** conference series.
 
 This is a GitHub Pages site built with Jekyll using the Cayman theme.
 
 ## About the Conference
 
-QCTiP 2026 is an international conference bringing together researchers, practitioners, and industry leaders to explore the latest advances in quantum computing, bridging theory and practice.
+QCTiP is the globally leading conference that focuses on practical aspects of quantum computing, bringing together researchers, practitioners, and industry leaders to explore the latest advances in quantum computing, bridging theory and practice.
 
 ## Local Development
 
@@ -47,11 +47,9 @@ The generated site will be in the `_site` directory.
 ## Site Structure
 
 - `index.md` - Homepage
-- `committees.md` - details of committees
-- `about.md` - About the conference
+- `committees.md` - details of the Steering Committee
 - `programme.md` - Conference programme and schedule
-- `venue.md` - Venue and travel information
-- `registration.md` - Registration info
+- `events.md` - List of past QCTiP events
 - `contact.md` - Contact information
 - `_config.yml` - Jekyll configuration
 - `Gemfile` - Ruby dependencies
