@@ -3,7 +3,7 @@ layout: default
 title: Past QCTiP Events
 ---
 
-# List of past QCTiP conferences
+## List of past QCTiP conferences
 
 - [QCTiP 2026](https://qctipconf.github.io/qctip_2026/): Oxford, UK (University of Oxford). Lead organisers: Balint Koczor & Aleks Kissinger
 - [QCTiP 2025](https://qctip2025.com/): Berlin, Germany (Freie Universität Berlin). Lead organiser: Jens Eisert

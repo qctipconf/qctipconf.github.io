@@ -3,7 +3,7 @@ layout: default
 title: Committees
 ---
 
-# Steering Committee for QCTiP 2027
+## Steering Committee for QCTiP 2027
 
 #### Chair
 - **Balint Koczor** (University of Oxford)
