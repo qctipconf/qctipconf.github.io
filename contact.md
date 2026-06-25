@@ -17,11 +17,6 @@ Interested in sponsoring QCTiP 2026? Please contact us for sponsorship packages 
 
 <qctip2026@cs.ox.ac.uk>
 
-### Webpage
-
-This webpage is maintained by
-- Balint Koczor (email)
-- Aleks Kissinger (email)
 
 
 
