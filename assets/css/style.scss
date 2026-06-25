@@ -5,17 +5,20 @@
 
 /* Oxford Blue Color Scheme */
 :root {
-  --oxford-blue: #002147;
+  --oxford-blue: #241f1f;
   --oxford-blue-light: #003366;
   --oxford-blue-lighter: #004488;
   --oxford-blue-dark: #001122;
   --oxford-blue-accent: #b0bce4;
+  --BUTTONCOLOR: #942c2c;
+  --HEADERCOLOR: #696262;
+  --BUTTONBORDERCOLOR: #241f1f;
 }
 
 /* Header gradient - replace green with Oxford blue */
 .page-header {
-  background: var(--oxford-blue-accent) !important;
-  background-image: var(--oxford-blue-accent) !important;
+  background: var(--HEADERCOLOR) !important;
+  background-image: var(--HEADERCOLOR) !important;
   color: white;
   padding: 2rem;
 }
@@ -34,7 +37,7 @@
 
 /* Button styles */
 .btn {
-  background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-light)) !important;
+  background: linear-gradient(120deg, #696262, var(--oxford-blue-light)) !important;
   border: 1px solid var(--oxford-blue-lighter) !important;
   color: white !important;
   text-decoration: none !important;
@@ -53,7 +56,7 @@ nav {
 }
 
 nav a {
-  background: var(--oxford-blue) !important;
+  background: var(--BUTTONCOLOR) !important;
   color: white !important;
   padding: 0.75rem 1.5rem !important;
   border-radius: 6px !important;
@@ -62,11 +65,11 @@ nav a {
   display: inline-block !important;
   font-weight: 500 !important;
 //   transition: all 0.3s ease !important;
-  border: 2px solid var(--oxford-blue) !important;
+  border: 2px solid var(--BUTTONBORDERCOLOR) !important;
 }
 
 nav a:hover {
-  background: var(--oxford-blue-light) !important;
+  background: var(--BUTTONBORDERCOLOR) !important;
   box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3) !important;
   border-color: var(--oxford-blue-lighter) !important;
   transition: all 0.3s ease !important;
