@@ -21,17 +21,17 @@ Last updated: {{ site.time }}
 ### Role of the Steering Committee
 The role of the steering committee (SC) includes the following:
 
-- setting the long-term direction of the QCTiP conference;
+- Setting the long-term direction of the QCTiP conference.
 
-- deciding on the location of the next event;
+- Deciding on the location of the next event.
 
-- appointing the PC Chair at least six months in advance of the next event;
+- Appointing the PC Chair at least six months in advance of the next event.
 
-- appointing a small number of invited speakers;
+- Appointing a small number of invited speakers.
 
-- advising on policies relating to paper submission rules;
+- Advising on policies relating to paper submission rules.
 
-- approving the structure of the schedule and programme of the next event.
+- Approving the structure of the schedule and programme of the next event.
 
 The SC should also serve as an oversight body, overseeing the work
 of the local organisers and advising on the dates and structure of
