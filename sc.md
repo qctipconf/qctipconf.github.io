@@ -45,7 +45,7 @@ conferences and the local organiser(s) of the next QCTiP event.
 It is chaired by one of the local organisers of the most recent previous event.
 
 SC members are typically expected to serve for three years,
-but may serve for a shorter or longer period where appropriate
+but may serve for a shorter or longer period where appropriate.
 
 ### Appointing leadership for future events
 
