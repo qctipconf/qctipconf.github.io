@@ -11,10 +11,10 @@ url: "https://qctipconf.github.io" # the base hostname & protocol for your site
 # Conference details
 conference:
   name: "Quantum Computing Theory in Practice"
-  short_name: "QCTiP 2026"
-  year: 2026
-  location: "University of Oxford"
-  city: "Oxford, United Kingdom"
+  short_name: "QCTiP"
+  year: ""
+  location: ""
+  city: ""
 
 # Theme settings
 theme: jekyll-theme-cayman

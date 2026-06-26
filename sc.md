@@ -21,7 +21,7 @@ Last updated: {{ site.time }}
 ### Role of the Steering Committee
 The role of the steering committee (SC) includes the following.
 
-- To set the long-term direction
+- Setting the long-term direction
 of the QCTiP conference.
 
 - To decide on the location of the next event.
