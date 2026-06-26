@@ -16,6 +16,15 @@ The conference series aims to bring together
 the academic community and industry representatives to foster
 discussions on how to unlock the full potential of quantum computers.
 
+## About this site
+
+This site provides general information about the QCTiP conference series,
+including its governance structure, the current membership of the
+Steering Committee, and formal policies relating to the roles and
+responsibilities of the Steering and Programme Committees.
+It is intended to serve as a central reference point for organisers,
+committee members, and participants, supporting transparency and
+continuity across future QCTiP events.
 
 
 ## QCTiP 2027
@@ -23,10 +32,4 @@ discussions on how to unlock the full potential of quantum computers.
 **The location of QCTiP 2027 will be announced soon. Please check back later.**
 
 Last updated: {{ site.time }}
-
-
-## Contact
-
-This webpage is part of [https://github.com/qctipconf](https://github.com/qctipconf)
-and is maintained by **Balint Koczor** and **Aleks Kissinger** (University of Oxford).
 
