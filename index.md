@@ -14,6 +14,9 @@ to reality. The conference series aims to bring together researchers and
 representatives from industry to discuss how to unlock the full potential
 of quantum computers.
 
+The conference series has been growing rapidly over the past years, and the
+next event will expect over 400 participants.
+
 ## About this site
 
 This site provides general information about the QCTiP conference series,
