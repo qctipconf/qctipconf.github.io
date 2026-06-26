@@ -6,15 +6,13 @@ title: Quantum Computing Theory in Practice
 
 ## Conference series in practical quantum computing theory
 
-Quantum Computing Theory in Practice (QCTiP)
-is recognised as the world's leading conference on
-applied aspects of quantum computing theory. 
-We are witnessing impressive progress in quantum hardware development
-and ongoing theoretical advancements
-are bringing practical applications of this hardware closer to reality.
-The conference series aims to bring together
-the academic community and industry representatives to foster
-discussions on how to unlock the full potential of quantum computers.
+Quantum Computing Theory in Practice (QCTiP) is recognised as the world’s
+leading conference on applied aspects of quantum computing theory.
+Rapid progress in quantum hardware, together with ongoing theoretical
+advances, is bringing practical applications of quantum computing closer
+to reality. The conference series aims to bring together researchers and
+representatives from industry to discuss how to unlock the full potential
+of quantum computers.
 
 ## About this site
 

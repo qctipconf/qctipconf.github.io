@@ -7,19 +7,19 @@ title: About the Programme Committee
 ## Role of the Programme Committee Chair
 
 The Programme Committee Chair is appointed by the Steering Committee.
-The role of the PC Chair is the following.
+The PC Chair is responsible for the following:
 
-- To set policies relating to paper submissions, poster submissions,
-and conflicts of interest.
+- setting policies relating to paper submissions, poster submissions,
+and conflicts of interest;
 
-- To appoint PC members whose areas of expertise cover all areas
-relevant to the theme of the conference.
+- appointing PC members whose areas of expertise cover all areas
+relevant to the theme of the conference;
 
-- To set acceptance criteria for submitted papers.
+- setting acceptance criteria for submitted papers;
 
-- To arrange for a paper submission system setup.
+- arranging for a paper submission system to be set up;
 
-- To approve the final list of accepted contributed talks and posters.
+- approving the final list of accepted contributed talks and posters.
 
 ## Role of the Programme Committee
 
