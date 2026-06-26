@@ -4,7 +4,7 @@ Landing page for the **Quantum Computing Theory in Practice** conference series.
 
 This is a GitHub Pages site built with Jekyll using the Cayman theme.
 
-## About the Conference
+## About the Conference Series
 
 QCTiP is the globally leading conference that focuses on practical aspects of quantum computing, bringing together researchers, practitioners, and industry leaders to explore the latest advances in quantum computing, bridging theory and practice.
 
@@ -60,4 +60,4 @@ The site is automatically deployed to GitHub Pages when changes are pushed to th
 
 ## License
 
-Content © 2024 QCTiP Conference Organizers
+Content © 2026 Balint Koczor & Aleks Kissinger (University of Oxford)
