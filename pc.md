@@ -46,3 +46,7 @@ list of the best papers to feature in the conference.
 
 - QCTiP 2022: **David Gosset** (University of Waterloo and Perimeter Institute, Canada)
 
+- QCTiP 2020: **Iordanis Kerenidis** (CNRS/QCWare)
+
+- QCTiP 2019: **Ashley Montanaro** (University of Bristol, UK)
+

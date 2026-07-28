@@ -10,5 +10,7 @@ title: Past QCTiP Events
 - [QCTiP 2024](https://www.qctip2024.com/): Edinburgh, UK (University of Edinburgh). Lead organiser: Elham Kashefi
 - QCTiP 2023: Cambridge, UK (Jesus College, University of Cambridge)
 - QCTiP 2022: Bristol, UK (University of Bristol)
+- [QCTiP 2020](https://www.quantiki.org/conference/quantum-computing-theory-practice-2020): Online (was due to be in Cambridge)
+- [QCTiP 2019](https://www.bristolmathsresearch.org/meeting/qctip/): Bristol, UK (University of Bristol). Lead organisers: Steve Brierley, Noah Linden, Ashley Montanaro
 
 
