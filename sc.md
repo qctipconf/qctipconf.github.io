@@ -6,13 +6,14 @@ title: About the Steering Committee
 ## Current Steering Committee
 
 #### Chair of the Steering Committee
-- **Balint Koczor** (University of Oxford)
+- **Bálint Koczor** (University of Oxford)
 
 #### Members of the Steering Committee
 - **Ophelia Crawford** (Riverlane)
 - **Elham Kashefi** (CNRS & Uni Edinburgh)
 - **Jens Eisert** (FU Berlin)
-- **Noah Linden** (Uni Bristol)
+- **Noah Linden** (University of Bristol)
+- **Zoë Holmes** (EPFL)
 
 Last updated: {{ site.time }}
 
