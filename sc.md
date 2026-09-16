@@ -10,10 +10,11 @@ title: About the Steering Committee
 
 #### Members of the Steering Committee
 - **Ophelia Crawford** (Riverlane)
-- **Elham Kashefi** (CNRS & Uni Edinburgh)
 - **Jens Eisert** (FU Berlin)
-- **Noah Linden** (University of Bristol)
 - **Zoë Holmes** (EPFL)
+- **Elham Kashefi** (CNRS & Uni Edinburgh)
+- **Noah Linden** (University of Bristol)
+- **Jordi Tura** (Leiden University)
 
 Last updated: {{ site.time }}
 
