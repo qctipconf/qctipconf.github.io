@@ -30,7 +30,7 @@ continuity across future QCTiP events.
 
 ## QCTiP 2027
 
-**[QCTiP 2027 will be held in Leiden, Netherlands between 12-14 April 2027.](http://2027.qctip.com/)**
+**[QCTiP 2027 will be held in Leiden, Netherlands between 12-14 April 2027.](https://2027.qctip.com/)**
 
 Last updated: {{ site.time }}
 
